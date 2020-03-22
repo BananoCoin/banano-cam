@@ -1,0 +1,74 @@
+{
+  "languages": {
+    "en": "English",
+    "es": "Español"
+  },
+  "title": {
+    "en": "Banano Cam",
+    "es": "Cámara banano"
+  },
+  "account": {
+    "en": "Account",
+    "es": "Cuenta"
+  },
+  "seed": {
+    "en": "Seed",
+    "es": "Semilla"
+  },
+  "browserOnly": {
+    "en": "Browser Only",
+    "es": "Solo Navegador"
+  },
+  "changeAccount": {
+    "en": "Change Account",
+    "es": "Cambiar Cuenta"
+  },
+  "optional": {
+    "en": "Optional",
+    "es": "Opcional"
+  },
+  "session": {
+    "en": "Session",
+    "es": "Sesión"
+  },
+  "recording": {
+    "en": "Recording",
+    "es": "Grabación"
+  },
+  "newSession": {
+    "en": "New Session",
+    "es": "Nueva Sesión"
+  },
+  "returningSesson": {
+    "en": "Returning Session",
+    "es": "Sesión de Regreso"
+  },
+  "sessionKey": {
+    "en": "Session Key",
+    "es": "Llave Sesión"
+  },
+  "beginSession": {
+    "en": "Begin Session",
+    "es": "Inicie Sesión"
+  },
+  "footerText": {
+    "en": "All emojis designed by OpenMoji– the open - source emoji and icon project.License: CC BY - SA 4.0.All Code MIT license, 2020. This site uses cookies to store your session. All cookies are cleared when you log out.",
+    "es": "Todos los emojis diseñados por OpenMoji, el proyecto de íconos y emojis de código abierto. Licencia: CC BY-SA 4.0. Todos los códigos MIT licencia, 2020. Este sitio utiliza cookies para almacenar su sesión. Todas las cookies se borran cuando cierra sesión."
+  },
+  "refresh": {
+    "en": "Refresh",
+    "es": "Actualizar"
+  },
+  "refreshStatusText": {
+    "en": "Refresh in",
+    "es": "Actualizar in"
+  },
+  "refreshStartText": {
+    "en": "Restart Refresh",
+    "es": "Reiniciar actualizar"
+  },
+  "refreshStopText": {
+    "en": "Stop Refresh",
+    "es": "Dejar de actualizar"
+  }
+}

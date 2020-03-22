@@ -1,0 +1,22 @@
+<footer>
+  {{#with languages}}
+    <form class="display_inline">
+      <select id="language" onchange="return setLanguage()">
+        {{#each options}}
+          <option {{selected}} value="{{code}}">{{name}}</option>
+        {{/each}}
+      </select>
+    </form>
+  {{/with}}
+  <span class="footertext">{{lang.footerText}}</span>
+  <span id="countdownInfo">
+    <span id="refreshTime" class="display_none">10</span>
+    <span class="refresh_text">{{lang.refreshStatusText}} :</span>
+    <span id="countdown" class="refresh_text">-</span>
+    <button class="refresh_button" type="button" onclick="clearInterval(countdownInteval);">{{lang.refreshStopText}}</button>
+    <button class="refresh_button" type="button" onclick="countdown();">{{lang.refreshStartText}}</button>
+  </span>
+  <script src="js/includes/footer.js"></script>
+  <script src="js/includes/banano.js"></script>
+  <script src="js-lib/bananocoin-bananojs-1.1.5.js"></script>
+</footer>

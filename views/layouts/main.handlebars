@@ -1,0 +1,37 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta http-equiv="content-type" content="text/html; charset=UTF-8">
+  <meta charset="utf-8">
+  <title>{{lang.title}}</title>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+
+<body onload="onLoad()">
+  <h2>🌴🍌🐒🌴 {{lang.title}} 🌴🍌🐒🌴</h2>
+  <div class="highlighted centered">
+    <table>
+      <tr>
+        <td>
+          <p class="padding_20px">
+            <a class="button yellow_input" href="/session">{{lang.session}}</a>
+          </p>
+        </td>
+        <td>
+          <p class="padding_20px">
+            <a class="button yellow_input" href="/recording">{{lang.recording}}</a>
+          </p>
+        </td>
+      </tr>
+    </table>
+  </div>
+  <hr>
+  {{{body}}}
+  <hr>
+  <small class="small error" id="errorMessage">&nbsp;</small><br>
+  <hr>
+  {{> includes/footer }}
+</body>
+
+</html>

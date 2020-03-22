@@ -1,0 +1,8 @@
+{
+  "web": {
+    "port": "8484"
+  },
+  "cookieSecret": "",
+  "hashSecret": "",
+  "bananodeApiUrl": "https://kaliumapi.appditto.com/api"
+}

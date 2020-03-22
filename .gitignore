@@ -1,0 +1,6 @@
+/node_modules/
+/screenlog.0
+.nyc_output
+/config.json
+/notes.txt
+/data/

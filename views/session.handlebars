@@ -1,0 +1,103 @@
+<div class="highlighted centered padding_20px">
+  {{#if hasSessionKey}}
+    {{#if hasAccount}}
+      <table class="h_centered centered align_top">
+        <tr>
+          <th class="bordered">{{lang.account}}</th>
+        </tr>
+        <tr>
+          <td class="bordered">{{account}}</td>
+        </tr>
+      </table>
+    {{/if}}
+    <p>
+      <p>
+        {{lang.sessionKey}}
+        <form class="display_inline" method="POST">
+          <button class="yellow_input" id="session-key-show" type="button" onclick="showSessionKey();">
+            <img class="px15x15borderless" src="openemojis/🔑.png">
+          </button>
+          <button class="yellow_input" id="session-key-hide" style="display:none" type="button" onclick="hideSessionKey();">
+            <img class="px15x15borderless" src="openemojis/🔓️.png">
+          </button>
+        </form>
+      </p>
+      <div id="session-key" style="display:none">
+        <table class="h_centered centered align_top">
+          <tr>
+            <th class="bordered">{{lang.sessionKey}}</th>
+          </tr>
+          <tr>
+            <td class="bordered">{{sessionKey}}</td>
+          </tr>
+        </table>
+      </div>
+    </p>
+    <p>
+      <form class="display_inline" method="POST">
+        <input class="yellow_input" type="submit" name="action" value="logout" onclick="clearSeed();">
+      </form>
+    </p>
+    <br>
+    <div id="sessionDrawings" class="padding_10px h_centered centered monospace">
+    </div>
+  {{else}}
+    <p>
+      {{message}}
+    </p>
+    <form class="display_inline" method="POST">
+      <input id="newSessionButton" class="yellow_tab" type="button" value="{{lang.newSession}}" onclick="showNewSession();">
+      <input id="returningSessionButton" class="yellow_tab" type="button" value="{{lang.returningSesson}}" onclick="showReturningSession();">
+    </form>
+    <div id="newSession" style="display:none" class="tab_body rounded_bottom">
+      <form class="display_inline" method="POST">
+        <p>
+          {{lang.startNewSession}}
+          <br>
+          {{lang.account}} ({{lang.optional}})
+        </p>
+        <div class="highlighted centered">
+          <input class="yellow_text_input" type="text" name="account" size="64" pattern="{{accountPattern}}" autocomplete="off"><br>
+          Pattern:{{accountPattern}}
+        </div>
+        <hr>
+        <button class="yellow_input" name="action" value="login" onclick="setSeed();">{{lang.newSession}}</button>
+      </form>
+    </div>
+    <div id="returningSession" style="display:none" class="tab_body rounded">
+      <form class="display_inline" method="POST">
+        <p>
+          {{lang.sessionKey}}
+          <div class="highlighted centered">
+            <input class="yellow_text_input" type="text" name="session_key" size="66" pattern="{{sessionKeyPattern}}" autocomplete="off">
+          </div><br>
+          Pattern:{{sessionKeyPattern}}
+        </p>
+        <br>
+        <br>
+        <p>
+          {{lang.account}} ({{lang.optional}})
+          <div class="highlighted centered">
+            {{lang.changeAccount}}
+            <br>
+            <input class="yellow_text_input" type="text" name="account" size="64" pattern="{{accountPattern}}" autocomplete="off"><br>
+            Pattern:{{accountPattern}}
+          </div>
+        </p>
+        <hr>
+        <p>
+          <button class="yellow_input" name="action" value="login" onclick="setSeed();">{{lang.newSession}}</button>
+        </p>
+      </form>
+    </div>
+    <p>
+      {{lang.seed}} ({{lang.optional}}) ({{lang.browserOnly}})
+      <br>
+      <div class="highlighted centered">
+        <input class="yellow_text_input" type="text" id="seed" size="64" pattern="{{seedPattern}}" autocomplete="off">
+      </div><br>
+      Pattern:{{seedPattern}}
+    </p>
+  {{/if}}
+</div>
+<script src="js/views/session.js"></script>

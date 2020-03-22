@@ -1,0 +1,70 @@
+{{#if hasSessionKey}}
+  {{#if hasAccount}}
+    <div class="highlighted h_centered centered padding_20px">
+      <table>
+        <tr>
+          <th class="bordered">{{lang.account}}</th>
+        </tr>
+        <tr>
+          <td class="bordered" id="account">{{account}}</td>
+        </tr>
+        <tr id="accountBalanceWrapper">
+        </tr>
+      </table>
+    </div>
+    <hr>
+  {{/if}}
+  <table class="h_centered centered align_top h500px">
+    <tr>
+      <td>
+        <div class="camera">
+          <video id="video">Video stream not available.</video>
+        </div>
+      </td>
+      <td>
+        <canvas id="canvas" class="hidden_canvas">
+        </canvas>
+        <div class="output">
+          <img id="photo" alt="The screen capture will appear in this box.">
+        </div>
+      </td>
+    </tr>
+    <tr class="h50px">
+      <td>
+        <button id="startVideo" class="startbutton">Start Video</button>
+      </td>
+      <td>
+        <button id="startRecording" class="startbutton">Start Recording</button>
+      </td>
+    </tr>
+    <tr class="h50px">
+      <td>
+        <button id="stopVideo" class="startbutton">Stop Video</button>
+      </td>
+      <td>
+        <button id="stopRecording" class="startbutton">Stop Recording</button>
+      </td>
+    </tr>
+    <tr class="h50px">
+      <td colspan="2">
+        <p id="visibilityMessage">
+        </p>
+      </td>
+    </tr>
+    <tr class="h50px">
+      <td>
+        <button id="publicVideo" class="startbutton">Public Video</button>
+      </td>
+      <td>
+        <button id="privateVideo" class="startbutton">Private Video</button>
+      </td>
+    </tr>
+  </table>
+  <hr>
+  <h1 id="otherVideosHeader"></h1>
+  <div id="otherVideos">
+  </div>
+{{else}}
+  Please Log In.
+{{/if}}
+<script src="js/views/recording.js"></script>
