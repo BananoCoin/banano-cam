@@ -305,7 +305,13 @@ const checkPending = async () => {
 const sendBanano = async (id, toAccount) => {
   try {
     const resultElt = document.querySelector(`#${id}Result`);
+    if (!resultElt) {
+      throw Error(`result elt not found for ID '${id}'`);
+    }
     const amountElt = document.querySelector(`#${id}Amount`);
+    if (!amountElt) {
+      throw Error(`amount elt not found for ID '${id}'`);
+    }
     const amount = amountElt.value;
     const seed = localStorage.getItem('seed');
     if (seed.length == 64) {
