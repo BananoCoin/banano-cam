@@ -1,4 +1,4 @@
-const url = 'https://jungle.coranos.cc/api';
+const url = 'https://cam.coranos.cc/api';
 // const url = 'https://kaliumapi.appditto.com/api';
 
 const getBananoPartsFromRaw = (balance) => {
