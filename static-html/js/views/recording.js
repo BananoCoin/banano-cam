@@ -303,11 +303,11 @@ const checkPending = async () => {
 };
 
 const sendBanano = async (id, toAccount) => {
-  const resultElt = document.querySelector(`#${id}Result`);
+  const resultElt = document.getElementById(`${id}Result`);
   if (!resultElt) {
     throw Error(`result elt not found for ID '${id}'`);
   }
-  const amountElt = document.querySelector(`#${id}Amount`);
+  const amountElt = document.getElementById(`${id}Amount`);
   if (!amountElt) {
     throw Error(`amount elt not found for ID '${id}'`);
   }
