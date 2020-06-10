@@ -44,12 +44,14 @@
   "session": {
     "en": "Session",
     "es": "Sesión",
-    "de": "Sitzung"
+    "de": "Sitzung",
+    "no": "Økt"
   },
   "recording": {
     "en": "Recording",
     "es": "Grabación",
-    "de": "Aufnahme"
+    "de": "Aufnahme",
+    "no": "Spiller inn"
   },
   "newSession": {
     "en": "New Session",
@@ -91,7 +93,7 @@
     "en": "Refresh in",
     "es": "Actualizar in",
     "de": "Aktualisierung in",
-    "no": "Frisker opp om"
+    "no": "Oppfrisker om"
   },
   "refreshStartText": {
     "en": "Restart Refresh",
