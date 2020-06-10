@@ -2,32 +2,38 @@
   "languages": {
     "en": "English",
     "es": "Español",
-    "de": "Deutsch"
+    "de": "Deutsch",
+    "no": "Norsk"
   },
   "title": {
     "en": "Banano Cam",
     "es": "Cámara banano",
     "de": "Banano Cam"
+    "no": "Banano Cam"
   },
   "account": {
     "en": "Account",
     "es": "Cuenta",
     "de": "Konto"
+    "no": "Konto"
   },
   "seed": {
     "en": "Seed",
     "es": "Semilla",
     "de": "Seed"
+    "no": "Seed"
   },
   "browserOnly": {
     "en": "Browser Only",
     "es": "Solo Navegador",
     "de": "Nur Browser"
+    "no": "Kun Nettleser"
   },
   "changeAccount": {
     "en": "Change Account",
     "es": "Cambiar Cuenta",
     "de": "Konto wechseln"
+    "no": "Norsk"
   },
   "optional": {
     "en": "Optional",
