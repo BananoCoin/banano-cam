@@ -1,74 +1,92 @@
 {
   "languages": {
     "en": "English",
-    "es": "Español"
+    "es": "Español",
+    "de": "Deutsch"
   },
   "title": {
     "en": "Banano Cam",
-    "es": "Cámara banano"
+    "es": "Cámara banano",
+    "de": "Banano Cam"
   },
   "account": {
     "en": "Account",
-    "es": "Cuenta"
+    "es": "Cuenta",
+    "de": "Konto"
   },
   "seed": {
     "en": "Seed",
-    "es": "Semilla"
+    "es": "Semilla",
+    "de": "Seed"
   },
   "browserOnly": {
     "en": "Browser Only",
-    "es": "Solo Navegador"
+    "es": "Solo Navegador",
+    "de": "Nur Browser"
   },
   "changeAccount": {
     "en": "Change Account",
-    "es": "Cambiar Cuenta"
+    "es": "Cambiar Cuenta",
+    "de": "Konto wechseln"
   },
   "optional": {
     "en": "Optional",
-    "es": "Opcional"
+    "es": "Opcional",
+    "de": "Optional"
   },
   "session": {
     "en": "Session",
-    "es": "Sesión"
+    "es": "Sesión",
+    "de": "Sitzung"
   },
   "recording": {
     "en": "Recording",
-    "es": "Grabación"
+    "es": "Grabación",
+    "de": "Aufnahme"
   },
   "newSession": {
     "en": "New Session",
-    "es": "Nueva Sesión"
+    "es": "Nueva Sesión",
+    "de": "Neue Sitzung"
   },
   "returningSesson": {
     "en": "Returning Session",
-    "es": "Sesión de Regreso"
+    "es": "Sesión de Regreso",
+    "de": "Wiederkehrende Sitzung"
   },
   "sessionKey": {
     "en": "Session Key",
-    "es": "Llave Sesión"
+    "es": "Llave Sesión",
+    "de": "Sitzungsschlüssel"
   },
   "beginSession": {
     "en": "Begin Session",
-    "es": "Inicie Sesión"
+    "es": "Inicie Sesión",
+    "de": "Starte Sitzung"
   },
   "footerText": {
     "en": "All emojis designed by OpenMoji– the open - source emoji and icon project.License: CC BY - SA 4.0.All Code MIT license, 2020. This site uses cookies to store your session. All cookies are cleared when you log out.",
-    "es": "Todos los emojis diseñados por OpenMoji, el proyecto de íconos y emojis de código abierto. Licencia: CC BY-SA 4.0. Todos los códigos MIT licencia, 2020. Este sitio utiliza cookies para almacenar su sesión. Todas las cookies se borran cuando cierra sesión."
+    "es": "Todos los emojis diseñados por OpenMoji, el proyecto de íconos y emojis de código abierto. Licencia: CC BY-SA 4.0. Todos los códigos MIT licencia, 2020. Este sitio utiliza cookies para almacenar su sesión. Todas las cookies se borran cuando cierra sesión.",
+    "de": "Alle emojis designed von OpenMoji– the open - source emoji and icon project.Lizenz: CC BY - SA 4.0.  Code MIT license, 2020. Diese Webseite speichert Cookies, um Deine Sitzung zu speichern. Alle cookies werden gelöscht, sobald Du Dich ausloggst."
   },
   "refresh": {
     "en": "Refresh",
-    "es": "Actualizar"
+    "es": "Actualizar",
+    "de": "Aktualisieren"
   },
   "refreshStatusText": {
     "en": "Refresh in",
-    "es": "Actualizar in"
+    "es": "Actualizar in",
+    "de": "Aktualisierung in"
   },
   "refreshStartText": {
     "en": "Restart Refresh",
-    "es": "Reiniciar actualizar"
+    "es": "Reiniciar actualizar",
+    "de": "Aktualisierung neu starten"
   },
   "refreshStopText": {
     "en": "Stop Refresh",
-    "es": "Dejar de actualizar"
+    "es": "Dejar de actualizar",
+    "de": "Aktualisierung stoppen"
   }
 }
