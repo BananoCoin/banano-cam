@@ -8,37 +8,38 @@
   "title": {
     "en": "Banano Cam",
     "es": "Cámara banano",
-    "de": "Banano Cam"
+    "de": "Banano Cam",
     "no": "Banano Cam"
   },
   "account": {
     "en": "Account",
     "es": "Cuenta",
-    "de": "Konto"
+    "de": "Konto",
     "no": "Konto"
   },
   "seed": {
     "en": "Seed",
     "es": "Semilla",
-    "de": "Seed"
+    "de": "Seed",
     "no": "Seed"
   },
   "browserOnly": {
     "en": "Browser Only",
     "es": "Solo Navegador",
-    "de": "Nur Browser"
+    "de": "Nur Browser",
     "no": "Kun Nettleser"
   },
   "changeAccount": {
     "en": "Change Account",
     "es": "Cambiar Cuenta",
-    "de": "Konto wechseln"
-    "no": "Norsk"
+    "de": "Konto wechseln",
+    "no": "Bytt Konto"
   },
   "optional": {
     "en": "Optional",
     "es": "Opcional",
-    "de": "Optional"
+    "de": "Optional",
+    "no": "Valgfritt"
   },
   "session": {
     "en": "Session",
@@ -53,46 +54,55 @@
   "newSession": {
     "en": "New Session",
     "es": "Nueva Sesión",
-    "de": "Neue Sitzung"
+    "de": "Neue Sitzung",
+    "no": "Ny Økt"
   },
   "returningSesson": {
     "en": "Returning Session",
     "es": "Sesión de Regreso",
-    "de": "Wiederkehrende Sitzung"
+    "de": "Wiederkehrende Sitzung",
+    "no": "Går Tilbake Til Økt"
   },
   "sessionKey": {
     "en": "Session Key",
     "es": "Llave Sesión",
-    "de": "Sitzungsschlüssel"
+    "de": "Sitzungsschlüssel",
+    "no": "Øktsnøkkel"
   },
   "beginSession": {
     "en": "Begin Session",
     "es": "Inicie Sesión",
-    "de": "Starte Sitzung"
+    "de": "Starte Sitzung",
+    "no": "Begynn Økt"
   },
   "footerText": {
     "en": "All emojis designed by OpenMoji– the open - source emoji and icon project.License: CC BY - SA 4.0.All Code MIT license, 2020. This site uses cookies to store your session. All cookies are cleared when you log out.",
     "es": "Todos los emojis diseñados por OpenMoji, el proyecto de íconos y emojis de código abierto. Licencia: CC BY-SA 4.0. Todos los códigos MIT licencia, 2020. Este sitio utiliza cookies para almacenar su sesión. Todas las cookies se borran cuando cierra sesión.",
-    "de": "Alle emojis designed von OpenMoji– the open - source emoji and icon project.Lizenz: CC BY - SA 4.0.  Code MIT license, 2020. Diese Webseite speichert Cookies, um Deine Sitzung zu speichern. Alle cookies werden gelöscht, sobald Du Dich ausloggst."
+    "de": "Alle emojis designed von OpenMoji– the open - source emoji and icon project.Lizenz: CC BY - SA 4.0.  Code MIT license, 2020. Diese Webseite speichert Cookies, um Deine Sitzung zu speichern. Alle cookies werden gelöscht, sobald Du Dich ausloggst.",
+    "no": "Alle emojis designet av OpenMoji– the open - source emoji and icon project. Lisens: CC BY - SA 4.0. All kode er lisensiert under MIT-lisensen."
   },
   "refresh": {
     "en": "Refresh",
     "es": "Actualizar",
-    "de": "Aktualisieren"
+    "de": "Aktualisieren",
+    "no": "Oppfrisk"
   },
   "refreshStatusText": {
     "en": "Refresh in",
     "es": "Actualizar in",
-    "de": "Aktualisierung in"
+    "de": "Aktualisierung in",
+    "no": "Frisker opp om"
   },
   "refreshStartText": {
     "en": "Restart Refresh",
     "es": "Reiniciar actualizar",
-    "de": "Aktualisierung neu starten"
+    "de": "Aktualisierung neu starten",
+    "no": "Oppfrisk på nytt"
   },
   "refreshStopText": {
     "en": "Stop Refresh",
     "es": "Dejar de actualizar",
-    "de": "Aktualisierung stoppen"
+    "de": "Aktualisierung stoppen",
+    "no": "Avslutt oppfriskning"
   }
 }
