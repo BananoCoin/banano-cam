@@ -7,6 +7,7 @@
     "tr": "Türkçe",
     "fr": "Français"
   },
+  
   "title": {
     "en": "Banano Cam",
     "es": "Cámara banano",
@@ -14,6 +15,7 @@
     "no": "Banano Cam",
     "tr": "Banano Cam",
     "fr": "Banano Cam"
+  
   },
   "account": {
     "en": "Account",
@@ -23,6 +25,7 @@
     "tr": "Hesap",
     "fr": "Compte"
   },
+  
   "seed": {
     "en": "Seed",
     "es": "Semilla",
@@ -31,7 +34,7 @@
     "tr": "Seed",
     "fr": "Seed"
   },
-
+  
   "browserOnly": {
     "en": "Browser Only",
     "es": "Solo Navegador",
@@ -40,6 +43,7 @@
     "tr": "Sadece Tarayıcı",
     "fr": "Navigateur Seulement"
   },
+  
   "changeAccount": {
     "en": "Change Account",
     "es": "Cambiar Cuenta",
@@ -48,6 +52,7 @@
     "tr": "Hesap Değiştir",
     "fr": "Changement de compte"
   },
+  
   "optional": {
     "en": "Optional",
     "es": "Opcional",
@@ -56,6 +61,7 @@
     "tr": "İsteğe Bağlı",
     "fr": "Optionnel"
   },
+  
   "session": {
     "en": "Session",
     "es": "Sesión",
@@ -64,6 +70,7 @@
     "tr": "Oturum",
     "fr": "Session"
   },
+  
   "recording": {
     "en": "Recording",
     "es": "Grabación",
@@ -72,6 +79,7 @@
     "tr": "Kayıt",
     "fr": "Enregistrement"
   },
+  
   "newSession": {
     "en": "New Session",
     "es": "Nueva Sesión",
@@ -80,6 +88,7 @@
     "tr": "Yeni Oturum",
     "fr": "Nouvelle Session"
   },
+  
   "returningSesson": {
     "en": "Returning Session",
     "es": "Sesión de Regreso",
@@ -88,6 +97,7 @@
     "tr": "Oturuma Geri Dön",
     "fr": "Reprendre session"
   },
+  
   "sessionKey": {
     "en": "Session Key",
     "es": "Llave Sesión",
@@ -95,6 +105,7 @@
     "no": "Øktsnøkkel",
     "tr": "Oturum Şifresi",
     "fr": "Clé de session"
+
   },
   "beginSession": {
     "en": "Begin Session",
@@ -104,14 +115,16 @@
     "tr": "Oturumu Başlat",
     "fr": "Démarrer Session"
   },
+  
   "footerText": {
     "en": "All emojis designed by OpenMoji– the open - source emoji and icon project.License: CC BY - SA 4.0.All Code MIT license, 2020. This site uses cookies to store your session. All cookies are cleared when you log out.",
     "es": "Todos los emojis diseñados por OpenMoji, el proyecto de íconos y emojis de código abierto. Licencia: CC BY-SA 4.0. Todos los códigos MIT licencia, 2020. Este sitio utiliza cookies para almacenar su sesión. Todas las cookies se borran cuando cierra sesión.",
-    "de": "Alle emojis designed von OpenMoji– the open - source emoji and icon project.Lizenz: CC BY - SA 4.0.  Code MIT license, 2020. Diese Webseite speichert Cookies, um Deine Sitzung zu speichern. Alle cookies werden gelöscht, sobald Du Dich ausloggst.",
+    "de": "Alle emojis designed von OpenMoji– the open - source emoji and icon project.Lizenz: CC BY - SA 4.0.  Gesamter Code: MIT license, 2020. Diese Webseite speichert Cookies, um Deine Sitzung zu speichern. Alle cookies werden gelöscht, sobald Du Dich ausloggst.",
     "no": "Alle emojis designet av OpenMoji– the open - source emoji and icon project. Lisens: CC BY - SA 4.0. All Code MIT license, 2020. Dette nettsted benytter seg av cookies for å lagre økten din. Alle cookies blir slettet når du logger ut.",
     "tr": "Tüm emojiler OpenMoji tarafından tasarlanmıştır– açık kaynak - emoji ve ikon projesi. Lisans: CC BY - SA 4.0.All Code MIT license, 2020. Bu site oturumunuzu saklamak için çerezler kullanır. Çıkış yaptığınızda tüm çerezler silinir.",
-    "fr": "Tous les emojis ont été conçus par OpenMoji - le projet open-source d'emoji et d'icônes.Licence: CC BY - SA 4.0.Toutes les licences Code MIT, 2020. Ce site utilise des cookies pour stocker votre session. Tous les cookies sont effacés lorsque vous vous déconnectez."
+    "fr": "Tous les emojis ont été conçus par OpenMoji - le projet open-source d'emoji et d'icônes.Licence: CC BY - SA 4.0.Toutes les code licence MIT, 2020. Ce site utilise des cookies pour stocker votre session. Tous les cookies sont effacés lorsque vous vous déconnectez."
   },
+  
   "refresh": {
     "en": "Refresh",
     "es": "Actualizar",
@@ -120,6 +133,7 @@
     "tr": "Yenile",
     "fr": "Rafraîchir"
   },
+  
   "refreshStatusText": {
     "en": "Refresh in",
     "es": "Actualizar in",
@@ -128,6 +142,7 @@
     "tr": "Yenile",
     "fr": "Rafraîchissement en cours"
   },
+  
   "refreshStartText": {
     "en": "Restart Refresh",
     "es": "Reiniciar actualizar",
@@ -136,6 +151,7 @@
     "tr": "Tekrar Yenile",
     "fr": "Redémarrer le rafraîchissement"
   },
+  
   "refreshStopText": {
     "en": "Stop Refresh",
     "es": "Dejar de actualizar",
