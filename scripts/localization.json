@@ -4,7 +4,8 @@
     "es": "Español",
     "de": "Deutsch",
     "no": "Norsk",
-    "tr": "Türkçe"
+    "tr": "Türkçe",
+    "fr": "Français"
  
   },
   "title": {
@@ -12,7 +13,8 @@
     "es": "Cámara banano",
     "de": "Banano Cam",
     "no": "Banano Cam",
-    "tr": "Banano Cam"
+    "tr": "Banano Cam",
+    "fr": "Banano Cam"
  
   },
   "account": {
@@ -20,15 +22,16 @@
     "es": "Cuenta",
     "de": "Konto",
     "no": "Konto",
-    "tr": "Hesap"
-
+    "tr": "Hesap",
+    "fr": "Compte"
   },
   "seed": {
     "en": "Seed",
     "es": "Semilla",
     "de": "Seed",
     "no": "Seed",
-    "tr": "Seed"
+    "tr": "Seed",
+    "fr": "Seed"
   },
   
   "browserOnly": {
@@ -36,7 +39,8 @@
     "es": "Solo Navegador",
     "de": "Nur Browser",
     "no": "Kun Nettleser",
-    "tr": "Sadece Tarayıcı"
+    "tr": "Sadece Tarayıcı",
+    "fr": "Navigateur Seulement"
  
   },
   "changeAccount": {
@@ -44,7 +48,8 @@
     "es": "Cambiar Cuenta",
     "de": "Konto wechseln",
     "no": "Bytt Konto",
-    "tr": "Hesap Değiştir"
+    "tr": "Hesap Değiştir",
+    "fr": "Changement de compte"
 
   },
   "optional": {
@@ -52,7 +57,8 @@
     "es": "Opcional",
     "de": "Optional",
     "no": "Valgfritt",
-    "tr": "İsteğe Bağlı"
+    "tr": "İsteğe Bağlı",
+    "fr": "Optionnel"
 
   },
   "session": {
@@ -60,7 +66,8 @@
     "es": "Sesión",
     "de": "Sitzung",
     "no": "Økt",
-    "tr": "Oturum"
+    "tr": "Oturum",
+    "fr": "Session"
 
   },
   "recording": {
@@ -68,7 +75,8 @@
     "es": "Grabación",
     "de": "Aufnahme",
     "no": "Spiller inn",
-    "tr": "Kayıt"
+    "tr": "Kayıt",
+    "fr": "Enregistrement"
 
   },
   "newSession": {
@@ -76,7 +84,8 @@
     "es": "Nueva Sesión",
     "de": "Neue Sitzung",
     "no": "Ny Økt",
-    "tr": "Yeni Oturum"
+    "tr": "Yeni Oturum",
+    "fr": "Nouvelle Session"
 
   },
   "returningSesson": {
@@ -84,7 +93,8 @@
     "es": "Sesión de Regreso",
     "de": "Wiederkehrende Sitzung",
     "no": "Går Tilbake Til Økt",
-    "tr": "Oturuma Geri Dön"
+    "tr": "Oturuma Geri Dön",
+    "fr": "Reprendre session"
 
   },
   "sessionKey": {
@@ -92,7 +102,8 @@
     "es": "Llave Sesión",
     "de": "Sitzungsschlüssel",
     "no": "Øktsnøkkel",
-    "tr": "Oturum Şifresi"
+    "tr": "Oturum Şifresi",
+    "fr": "Clé de session"
 
   },
   "beginSession": {
@@ -100,7 +111,8 @@
     "es": "Inicie Sesión",
     "de": "Starte Sitzung",
     "no": "Begynn Økt",
-    "tr": "Oturumu Başlat"
+    "tr": "Oturumu Başlat",
+    "fr": "Démarrer Session"
 
   },
   "footerText": {
@@ -108,15 +120,16 @@
     "es": "Todos los emojis diseñados por OpenMoji, el proyecto de íconos y emojis de código abierto. Licencia: CC BY-SA 4.0. Todos los códigos MIT licencia, 2020. Este sitio utiliza cookies para almacenar su sesión. Todas las cookies se borran cuando cierra sesión.",
     "de": "Alle emojis designed von OpenMoji– the open - source emoji and icon project.Lizenz: CC BY - SA 4.0.  Code MIT license, 2020. Diese Webseite speichert Cookies, um Deine Sitzung zu speichern. Alle cookies werden gelöscht, sobald Du Dich ausloggst.",
     "no": "Alle emojis designet av OpenMoji– the open - source emoji and icon project. Lisens: CC BY - SA 4.0. All kode er lisensiert under MIT-lisensen.",
-    "tr": "Tüm emojiler OpenMoji tarafından tasarlanmıştır– açık kaynak - emoji ve ikon projesi. Lisans: CC BY - SA 4.0.All Code MIT license, 2020. Bu site oturumunuzu saklamak için çerezler kullanır. Çıkış yaptığınızda tüm çerezler silinir."
-  
+    "tr": "Tüm emojiler OpenMoji tarafından tasarlanmıştır– açık kaynak - emoji ve ikon projesi. Lisans: CC BY - SA 4.0.All Code MIT license, 2020. Bu site oturumunuzu saklamak için çerezler kullanır. Çıkış yaptığınızda tüm çerezler silinir.",
+    "fr": "Tous les emojis ont été conçus par OpenMoji - le projet open-source d'emoji et d'icônes.Licence: CC BY - SA 4.0.Toutes les licences Code MIT, 2020. Ce site utilise des cookies pour stocker votre session. Tous les cookies sont effacés lorsque vous vous déconnectez."
   },
   "refresh": {
     "en": "Refresh",
     "es": "Actualizar",
     "de": "Aktualisieren",
     "no": "Oppfrisk",
-    "tr": "Yenile"
+    "tr": "Yenile",
+    "fr": "Rafraîchir"
 
   },
   "refreshStatusText": {
@@ -124,7 +137,8 @@
     "es": "Actualizar in",
     "de": "Aktualisierung in",
     "no": "Oppfrisker om",
-    "tr": "Yenile"
+    "tr": "Yenile",
+    "fr": "Rafraîchissement en cours"
  
   },
   "refreshStartText": {
@@ -132,7 +146,8 @@
     "es": "Reiniciar actualizar",
     "de": "Aktualisierung neu starten",
     "no": "Oppfrisk på nytt",
-    "tr": "Tekrar Yenile"
+    "tr": "Tekrar Yenile",
+    "fr": "Redémarrer le rafraîchissement"
  
   },
   "refreshStopText": {
@@ -140,6 +155,7 @@
     "es": "Dejar de actualizar",
     "de": "Aktualisierung stoppen",
     "no": "Avslutt oppfriskning",
-    "tr": "Yenilemeyi Durdur"
+    "tr": "Yenilemeyi Durdur",
+    "fr": "Arrêter le rafraîchissement"
   }
 }
