@@ -19,14 +19,19 @@
     "en": "Account",
     "es": "Cuenta",
     "de": "Konto",
-    "no": "Konto"
+    "no": "Konto",
+    "tr": "Hesap",
+    "fr": "Compte"
   },
   "seed": {
     "en": "Seed",
     "es": "Semilla",
     "de": "Seed",
-    "no": "Seed"
+    "no": "Seed",
+    "tr": "Seed",
+    "fr": "Seed"
   },
+
   "browserOnly": {
     "en": "Browser Only",
     "es": "Solo Navegador",
@@ -135,6 +140,8 @@
     "en": "Stop Refresh",
     "es": "Dejar de actualizar",
     "de": "Aktualisierung stoppen",
-    "no": "Stopp oppfriskning"
+    "no": "Avslutt oppfriskning",
+    "tr": "Yenilemeyi Durdur",
+    "fr": "Arrêter le rafraîchissement"
   }
 }
