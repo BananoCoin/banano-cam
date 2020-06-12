@@ -7,9 +7,8 @@
     "tr": "Türkçe",
     "fr": "Français",
     "nl": "Nederlands"
-	
   },
-  
+	
   "title": {
     "en": "Banano Cam",
     "es": "Cámara banano",
@@ -17,9 +16,9 @@
     "no": "Banano Cam",
     "tr": "Banano Cam",
     "fr": "Banano Cam",
-	"nl": "Banano Cam"
-  
-  },
+    "nl": "Banano Cam"
+   },
+	
   "account": {
     "en": "Account",
     "es": "Cuenta",
@@ -27,7 +26,7 @@
     "no": "Konto",
     "tr": "Hesap",
     "fr": "Compte",
-	"nl": ""	
+    "nl": "Account"	
   },
   
   "seed": {
@@ -37,7 +36,7 @@
     "no": "Seed",
     "tr": "Seed",
     "fr": "Seed",
-	"nl": ""	
+    "nl": "Seed"	
   },
   
   "browserOnly": {
@@ -47,7 +46,7 @@
     "no": "Kun Nettleser",
     "tr": "Sadece Tarayıcı",
     "fr": "Navigateur Seulement",
-	"nl": ""	
+    "nl": "Alleen browser"	
   },
   
   "changeAccount": {
@@ -57,7 +56,7 @@
     "no": "Bytt Konto",
     "tr": "Hesap Değiştir",
     "fr": "Changement de compte",
-	"nl": ""	
+    "nl": "Wijzig account"	
   },
   
   "optional": {
@@ -67,7 +66,7 @@
     "no": "Valgfritt",
     "tr": "İsteğe Bağlı",
     "fr": "Optionnel",
-	"nl": ""	
+    "nl": "Optioneel"	
   },
   
   "session": {
@@ -77,7 +76,8 @@
     "no": "Økt",
     "tr": "Oturum",
     "fr": "Session",
-	"nl": ""	
+    "nl": "Sessie"
+	  
   },
   
   "recording": {
@@ -87,7 +87,7 @@
     "no": "Spiller inn",
     "tr": "Kayıt",
     "fr": "Enregistrement",
-	"nl": ""	
+    "nl": "Opnemen"	
   },
   
   "newSession": {
@@ -97,7 +97,7 @@
     "no": "Ny Økt",
     "tr": "Yeni Oturum",
     "fr": "Nouvelle Session",
-	"nl": ""	
+    "nl": "Nieuwe sessie"	
   },
   
   "returningSesson": {
@@ -107,7 +107,7 @@
     "no": "Går Tilbake Til Økt",
     "tr": "Oturuma Geri Dön",
     "fr": "Reprendre session",
-	"nl": ""	
+    "nl": "Terugkerende sessie"	
   },
   
   "sessionKey": {
@@ -117,7 +117,7 @@
     "no": "Øktsnøkkel",
     "tr": "Oturum Şifresi",
     "fr": "Clé de session",
-	"nl": ""	
+	"nl": "Sessie sleutel"	
 
   },
   "beginSession": {
@@ -126,8 +126,8 @@
     "de": "Starte Sitzung",
     "no": "Begynn Økt",
     "tr": "Oturumu Başlat",
-    "fr": "Démarrer Session"
-	"nl": ""	
+    "fr": "Démarrer Session",
+    "nl": "Begin sessie"	
   },
   
   "footerText": {
@@ -137,7 +137,7 @@
     "no": "Alle emojis designet av OpenMoji– the open - source emoji and icon project. Lisens: CC BY - SA 4.0. All Code MIT license, 2020. Dette nettsted benytter seg av cookies for å lagre økten din. Alle cookies blir slettet når du logger ut.",
     "tr": "Tüm emojiler OpenMoji tarafından tasarlanmıştır– açık kaynak - emoji ve ikon projesi. Lisans: CC BY - SA 4.0.All Code MIT license, 2020. Bu site oturumunuzu saklamak için çerezler kullanır. Çıkış yaptığınızda tüm çerezler silinir.",
     "fr": "Tous les emojis ont été conçus par OpenMoji - le projet open-source d'emoji et d'icônes.Licence: CC BY - SA 4.0.Toutes les code licence MIT, 2020. Ce site utilise des cookies pour stocker votre session. Tous les cookies sont effacés lorsque vous vous déconnectez.",
-	"nl": ""	
+    "nl": "Alle emoji's zijn ontworpen door OpenMoji - het open-source emoji- en pictogramproject. Licentie: CC BY-SA 4.0. All Code MIT-licentie, 2020. Deze site gebruikt cookies om je sessie op te slaan. Alle cookies worden gewist wanneer u uitlogt."	
   },
   
   "refresh": {
@@ -147,7 +147,7 @@
     "no": "Oppfrisk",
     "tr": "Yenile",
     "fr": "Rafraîchir",
-	"nl": ""	
+    "nl": "Verversen"	
   },
   
   "refreshStatusText": {
@@ -157,7 +157,7 @@
     "no": "Oppfrisker om",
     "tr": "Yenile",
     "fr": "Rafraîchissement en cours",
-	"nl": ""	
+    "nl": "Verversen in"	
   },
   
   "refreshStartText": {
@@ -167,7 +167,7 @@
     "no": "Oppfrisk på nytt",
     "tr": "Tekrar Yenile",
     "fr": "Redémarrer le rafraîchissement",
-	"nl": ""	
+    "nl": "Verversen herstarten"	
   },
   
   "refreshStopText": {
@@ -177,6 +177,6 @@
     "no": "Avslutt oppfriskning",
     "tr": "Yenilemeyi Durdur",
     "fr": "Arrêter le rafraîchissement",
-	"nl": ""	
+    "nl": "Stop verversen"	
   }
 }
