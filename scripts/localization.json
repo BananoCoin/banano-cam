@@ -6,9 +6,10 @@
     "no": "Norsk",
     "tr": "Türkçe",
     "fr": "Français",
-    "nl": "Nederlands"
+    "nl": "Nederlands",
+    "da": "Dansk"
   },
-	
+
   "title": {
     "en": "Banano Cam",
     "es": "Cámara banano",
@@ -16,9 +17,10 @@
     "no": "Banano Cam",
     "tr": "Banano Cam",
     "fr": "Banano Cam",
-    "nl": "Banano Cam"
-   },
-	
+    "nl": "Banano Cam",
+    "da": "Banano Cam"
+  },
+
   "account": {
     "en": "Account",
     "es": "Cuenta",
@@ -26,9 +28,10 @@
     "no": "Konto",
     "tr": "Hesap",
     "fr": "Compte",
-    "nl": "Account"	
+    "nl": "Account",
+    "da": "Konto"
   },
-  
+
   "seed": {
     "en": "Seed",
     "es": "Semilla",
@@ -36,9 +39,10 @@
     "no": "Seed",
     "tr": "Seed",
     "fr": "Seed",
-    "nl": "Seed"	
+    "nl": "Seed",
+    "da": "Seed"
   },
-  
+
   "browserOnly": {
     "en": "Browser Only",
     "es": "Solo Navegador",
@@ -46,9 +50,10 @@
     "no": "Kun Nettleser",
     "tr": "Sadece Tarayıcı",
     "fr": "Navigateur Seulement",
-    "nl": "Alleen browser"	
+    "nl": "Alleen browser",
+    "da": "Kun browser"
   },
-  
+
   "changeAccount": {
     "en": "Change Account",
     "es": "Cambiar Cuenta",
@@ -56,9 +61,10 @@
     "no": "Bytt Konto",
     "tr": "Hesap Değiştir",
     "fr": "Changement de compte",
-    "nl": "Wijzig account"	
+    "nl": "Wijzig account",
+    "da": "Skift konto"
   },
-  
+
   "optional": {
     "en": "Optional",
     "es": "Opcional",
@@ -66,9 +72,10 @@
     "no": "Valgfritt",
     "tr": "İsteğe Bağlı",
     "fr": "Optionnel",
-    "nl": "Optioneel"	
+    "nl": "Optioneel",
+    "da": "Optionel"
   },
-  
+
   "session": {
     "en": "Session",
     "es": "Sesión",
@@ -76,10 +83,10 @@
     "no": "Økt",
     "tr": "Oturum",
     "fr": "Session",
-    "nl": "Sessie"
-	  
+    "nl": "Sessie",
+    "da": "Session"
   },
-  
+
   "recording": {
     "en": "Recording",
     "es": "Grabación",
@@ -87,9 +94,10 @@
     "no": "Spiller inn",
     "tr": "Kayıt",
     "fr": "Enregistrement",
-    "nl": "Opnemen"	
+    "nl": "Opnemen",
+    "da": "Session"
   },
-  
+
   "newSession": {
     "en": "New Session",
     "es": "Nueva Sesión",
@@ -97,9 +105,10 @@
     "no": "Ny Økt",
     "tr": "Yeni Oturum",
     "fr": "Nouvelle Session",
-    "nl": "Nieuwe sessie"	
+    "nl": "Nieuwe sessie",
+    "da": "Ny session"
   },
-  
+
   "returningSesson": {
     "en": "Returning Session",
     "es": "Sesión de Regreso",
@@ -107,9 +116,10 @@
     "no": "Går Tilbake Til Økt",
     "tr": "Oturuma Geri Dön",
     "fr": "Reprendre session",
-    "nl": "Terugkerende sessie"	
+    "nl": "Terugkerende sessie",
+    "da": "Gentagende session"
   },
-  
+
   "sessionKey": {
     "en": "Session Key",
     "es": "Llave Sesión",
@@ -117,8 +127,8 @@
     "no": "Øktsnøkkel",
     "tr": "Oturum Şifresi",
     "fr": "Clé de session",
-	"nl": "Sessie sleutel"	
-
+    "nl": "Sessie sleutel",
+    "da": "Sessionsnøgle"
   },
   "beginSession": {
     "en": "Begin Session",
@@ -127,9 +137,10 @@
     "no": "Begynn Økt",
     "tr": "Oturumu Başlat",
     "fr": "Démarrer Session",
-    "nl": "Begin sessie"	
+    "nl": "Begin sessie",
+    "da": "Påbegynd session"
   },
-  
+
   "footerText": {
     "en": "All emojis designed by OpenMoji– the open - source emoji and icon project.License: CC BY - SA 4.0.All Code MIT license, 2020. This site uses cookies to store your session. All cookies are cleared when you log out.",
     "es": "Todos los emojis diseñados por OpenMoji, el proyecto de íconos y emojis de código abierto. Licencia: CC BY-SA 4.0. Todos los códigos MIT licencia, 2020. Este sitio utiliza cookies para almacenar su sesión. Todas las cookies se borran cuando cierra sesión.",
@@ -137,9 +148,10 @@
     "no": "Alle emojis designet av OpenMoji– the open - source emoji and icon project. Lisens: CC BY - SA 4.0. All Code MIT license, 2020. Dette nettsted benytter seg av cookies for å lagre økten din. Alle cookies blir slettet når du logger ut.",
     "tr": "Tüm emojiler OpenMoji tarafından tasarlanmıştır– açık kaynak - emoji ve ikon projesi. Lisans: CC BY - SA 4.0.All Code MIT license, 2020. Bu site oturumunuzu saklamak için çerezler kullanır. Çıkış yaptığınızda tüm çerezler silinir.",
     "fr": "Tous les emojis ont été conçus par OpenMoji - le projet open-source d'emoji et d'icônes.Licence: CC BY - SA 4.0.Toutes les code licence MIT, 2020. Ce site utilise des cookies pour stocker votre session. Tous les cookies sont effacés lorsque vous vous déconnectez.",
-    "nl": "Alle emoji's zijn ontworpen door OpenMoji - het open-source emoji- en pictogramproject. Licentie: CC BY-SA 4.0. All Code MIT-licentie, 2020. Deze site gebruikt cookies om je sessie op te slaan. Alle cookies worden gewist wanneer u uitlogt."	
+    "nl": "Alle emoji's zijn ontworpen door OpenMoji - het open-source emoji- en pictogramproject. Licentie: CC BY-SA 4.0. All Code MIT-licentie, 2020. Deze site gebruikt cookies om je sessie op te slaan. Alle cookies worden gewist wanneer u uitlogt.",
+    "da": "Alle emojis designet af OpenMoji - the open-source emoji and icon project. Licens: CC BY-SA 4.0. All Code MIT license, 2020. Denne side anvender cookies til at gemme din session. Alle cookies slettes når du logger ud."
   },
-  
+
   "refresh": {
     "en": "Refresh",
     "es": "Actualizar",
@@ -147,9 +159,10 @@
     "no": "Oppfrisk",
     "tr": "Yenile",
     "fr": "Rafraîchir",
-    "nl": "Verversen"	
+    "nl": "Verversen",
+    "da": "Opdater"
   },
-  
+
   "refreshStatusText": {
     "en": "Refresh in",
     "es": "Actualizar in",
@@ -157,9 +170,10 @@
     "no": "Oppfrisker om",
     "tr": "Yenile",
     "fr": "Rafraîchissement en cours",
-    "nl": "Verversen in"	
+    "nl": "Verversen in",
+    "da": "Opdaterer om"
   },
-  
+
   "refreshStartText": {
     "en": "Restart Refresh",
     "es": "Reiniciar actualizar",
@@ -167,9 +181,10 @@
     "no": "Oppfrisk på nytt",
     "tr": "Tekrar Yenile",
     "fr": "Redémarrer le rafraîchissement",
-    "nl": "Verversen herstarten"	
+    "nl": "Verversen herstarten",
+    "da": "Opdater på ny"
   },
-  
+
   "refreshStopText": {
     "en": "Stop Refresh",
     "es": "Dejar de actualizar",
@@ -177,6 +192,7 @@
     "no": "Avslutt oppfriskning",
     "tr": "Yenilemeyi Durdur",
     "fr": "Arrêter le rafraîchissement",
-    "nl": "Stop verversen"	
+    "nl": "Stop verversen",
+    "da": "Stop opdatering"
   }
 }
