@@ -7,7 +7,8 @@
     "tr": "Türkçe",
     "fr": "Français",
     "nl": "Nederlands",
-    "da": "Dansk"
+    "da": "Dansk",
+	"it": "Italiano"
   },
 
   "title": {
@@ -18,7 +19,8 @@
     "tr": "Banano Cam",
     "fr": "Banano Cam",
     "nl": "Banano Cam",
-    "da": "Banano Cam"
+    "da": "Banano Cam",
+	"it": "Banano Cam"
   },
 
   "account": {
@@ -29,7 +31,8 @@
     "tr": "Hesap",
     "fr": "Compte",
     "nl": "Account",
-    "da": "Konto"
+    "da": "Konto",
+	"it": ""
   },
 
   "seed": {
@@ -40,7 +43,8 @@
     "tr": "Seed",
     "fr": "Seed",
     "nl": "Seed",
-    "da": "Seed"
+    "da": "Seed",
+	"it": ""
   },
 
   "browserOnly": {
@@ -51,7 +55,8 @@
     "tr": "Sadece Tarayıcı",
     "fr": "Navigateur Seulement",
     "nl": "Alleen browser",
-    "da": "Kun browser"
+    "da": "Kun browser",
+	"it": ""
   },
 
   "changeAccount": {
@@ -62,7 +67,8 @@
     "tr": "Hesap Değiştir",
     "fr": "Changement de compte",
     "nl": "Wijzig account",
-    "da": "Skift konto"
+    "da": "Skift konto",
+	"it": ""
   },
 
   "optional": {
@@ -73,7 +79,8 @@
     "tr": "İsteğe Bağlı",
     "fr": "Optionnel",
     "nl": "Optioneel",
-    "da": "Optionel"
+    "da": "Optionel",
+	"it": ""
   },
 
   "session": {
@@ -84,7 +91,8 @@
     "tr": "Oturum",
     "fr": "Session",
     "nl": "Sessie",
-    "da": "Session"
+    "da": "Session",
+	"it": ""
   },
 
   "recording": {
@@ -95,7 +103,8 @@
     "tr": "Kayıt",
     "fr": "Enregistrement",
     "nl": "Opnemen",
-    "da": "Session"
+    "da": "Session",
+	"it": ""
   },
 
   "newSession": {
@@ -106,7 +115,8 @@
     "tr": "Yeni Oturum",
     "fr": "Nouvelle Session",
     "nl": "Nieuwe sessie",
-    "da": "Ny session"
+    "da": "Ny session",
+	"it": ""
   },
 
   "returningSesson": {
@@ -117,7 +127,8 @@
     "tr": "Oturuma Geri Dön",
     "fr": "Reprendre session",
     "nl": "Terugkerende sessie",
-    "da": "Gentagende session"
+    "da": "Gentagende session",
+	"it": ""
   },
 
   "sessionKey": {
@@ -128,7 +139,8 @@
     "tr": "Oturum Şifresi",
     "fr": "Clé de session",
     "nl": "Sessie sleutel",
-    "da": "Sessionsnøgle"
+    "da": "Sessionsnøgle",
+	"it": ""
   },
   "beginSession": {
     "en": "Begin Session",
@@ -138,7 +150,8 @@
     "tr": "Oturumu Başlat",
     "fr": "Démarrer Session",
     "nl": "Begin sessie",
-    "da": "Påbegynd session"
+    "da": "Påbegynd session",
+	"it": ""
   },
 
   "footerText": {
@@ -149,7 +162,8 @@
     "tr": "Tüm emojiler OpenMoji tarafından tasarlanmıştır– açık kaynak - emoji ve ikon projesi. Lisans: CC BY - SA 4.0.All Code MIT license, 2020. Bu site oturumunuzu saklamak için çerezler kullanır. Çıkış yaptığınızda tüm çerezler silinir.",
     "fr": "Tous les emojis ont été conçus par OpenMoji - le projet open-source d'emoji et d'icônes.Licence: CC BY - SA 4.0.Toutes les code licence MIT, 2020. Ce site utilise des cookies pour stocker votre session. Tous les cookies sont effacés lorsque vous vous déconnectez.",
     "nl": "Alle emoji's zijn ontworpen door OpenMoji - het open-source emoji- en pictogramproject. Licentie: CC BY-SA 4.0. All Code MIT-licentie, 2020. Deze site gebruikt cookies om je sessie op te slaan. Alle cookies worden gewist wanneer u uitlogt.",
-    "da": "Alle emojis designet af OpenMoji - the open-source emoji and icon project. Licens: CC BY-SA 4.0. All Code MIT license, 2020. Denne side anvender cookies til at gemme din session. Alle cookies slettes når du logger ud."
+    "da": "Alle emojis designet af OpenMoji - the open-source emoji and icon project. Licens: CC BY-SA 4.0. All Code MIT license, 2020. Denne side anvender cookies til at gemme din session. Alle cookies slettes når du logger ud.",
+	"it": ""
   },
 
   "refresh": {
@@ -160,7 +174,8 @@
     "tr": "Yenile",
     "fr": "Rafraîchir",
     "nl": "Verversen",
-    "da": "Opdater"
+    "da": "Opdater",
+	"it": ""
   },
 
   "refreshStatusText": {
@@ -171,7 +186,8 @@
     "tr": "Yenile",
     "fr": "Rafraîchissement en cours",
     "nl": "Verversen in",
-    "da": "Opdaterer om"
+    "da": "Opdaterer om",
+	"it": ""
   },
 
   "refreshStartText": {
@@ -182,7 +198,8 @@
     "tr": "Tekrar Yenile",
     "fr": "Redémarrer le rafraîchissement",
     "nl": "Verversen herstarten",
-    "da": "Opdater på ny"
+    "da": "Opdater på ny",
+	"it": ""
   },
 
   "refreshStopText": {
@@ -193,6 +210,7 @@
     "tr": "Yenilemeyi Durdur",
     "fr": "Arrêter le rafraîchissement",
     "nl": "Stop verversen",
-    "da": "Stop opdatering"
+    "da": "Stop opdatering",
+	"it": ""
   }
 }
