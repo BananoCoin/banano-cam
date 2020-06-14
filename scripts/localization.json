@@ -9,7 +9,7 @@
     "nl": "Nederlands",
     "da": "Dansk",
     "it": "Italiano",
-	  "ru": ""
+    "ru": "Русский"
   },
 
   "title": {
@@ -22,7 +22,7 @@
     "nl": "Banano Cam",
     "da": "Banano Cam",
     "it": "Banano Cam",
-	  "ru": ""
+    "ru": "Banano камера"
   },
 
   "account": {
@@ -35,7 +35,7 @@
     "nl": "Account",
     "da": "Konto",
     "it": "Account",
-	  "ru": ""
+    "ru": "Аккаунт"
   },
 
   "seed": {
@@ -48,7 +48,7 @@
     "nl": "Seed",
     "da": "Seed",
     "it": "Seed",
-	  "ru": ""
+    "ru": "Seed"
   },
 
   "browserOnly": {
@@ -61,7 +61,7 @@
     "nl": "Alleen browser",
     "da": "Kun browser",
     "it": "Solo Browser",
-	  "ru": ""
+    "ru": "Только браузер"
   },
 
   "changeAccount": {
@@ -74,7 +74,7 @@
     "nl": "Wijzig account",
     "da": "Skift konto",
     "it": "Cambia Account",
-	 "ru": ""
+    "ru": "Только браузер"
   },
 
   "optional": {
@@ -87,7 +87,7 @@
     "nl": "Optioneel",
     "da": "Optionel",
     "it": "Opzionale",
-	  "ru": ""
+    "ru": "Опционально"
   },
 
   "session": {
@@ -100,7 +100,7 @@
     "nl": "Sessie",
     "da": "Session",
     "it": "Sessione",
-	  "ru": ""
+    "ru": "Сессия"
   },
 
   "recording": {
@@ -113,7 +113,7 @@
     "nl": "Opnemen",
     "da": "Session",
     "it": "Registrazione",
-	  "ru": ""
+    "ru": "Запись"
   },
 
   "newSession": {
@@ -126,7 +126,7 @@
     "nl": "Nieuwe sessie",
     "da": "Ny session",
     "it": "Nuova Sessione",
-	  "ru": ""
+    "ru": "Новая сессия"
   },
 
   "returningSesson": {
@@ -139,7 +139,7 @@
     "nl": "Terugkerende sessie",
     "da": "Gentagende session",
     "it": "Riprendi Sessione",
-	  "ru": ""
+    "ru": "Возвращение сессии"
   },
 
   "sessionKey": {
@@ -152,7 +152,7 @@
     "nl": "Sessie sleutel",
     "da": "Sessionsnøgle",
     "it": "Chiave Sessione",
-	  "ru": ""
+    "ru": "Ключ сессии"
   },
   "beginSession": {
     "en": "Begin Session",
@@ -164,7 +164,7 @@
     "nl": "Begin sessie",
     "da": "Påbegynd session",
     "it": "Inizia Sessione",
-	  "ru": ""
+    "ru": "Начать сессию"
   },
 
   "footerText": {
@@ -177,7 +177,7 @@
     "nl": "Alle emoji's zijn ontworpen door OpenMoji - het open-source emoji- en pictogramproject. Licentie: CC BY-SA 4.0. All Code MIT-licentie, 2020. Deze site gebruikt cookies om je sessie op te slaan. Alle cookies worden gewist wanneer u uitlogt.",
     "da": "Alle emojis designet af OpenMoji - the open-source emoji and icon project. Licens: CC BY-SA 4.0. All Code MIT license, 2020. Denne side anvender cookies til at gemme din session. Alle cookies slettes når du logger ud.",
     "it": "Tutti gli emojis realizzati da OpenMoji– the open - source emoji and icon project.License: CC BY - SA 4.0.All Code MIT license, 2020.Questo sito utilizza i cookie per memorizzare la sessione. Tutti i cookie vengono cancellati quando ti disconnetti.",
-	  "ru": ""
+    "ru": "Все смайлики, разработанные OpenMoji - проект смайликов и иконок с открытым исходным кодом. Лицензия: CC BY - SA 4.0. Лицензия на все коды MIT, 2020. Этот сайт использует cookies для хранения вашей сессии. Все cookies очищаются при выходе из системы."
   },
 
   "refresh": {
@@ -190,7 +190,7 @@
     "nl": "Verversen",
     "da": "Opdater",
     "it": "Ricaricare",
-	"ru": ""
+    "ru": "Обновление"
   },
 
   "refreshStatusText": {
@@ -203,7 +203,7 @@
     "nl": "Verversen in",
     "da": "Opdaterer om",
     "it": "Ricaricare in",
-	"ru": ""
+    "ru": "Обновить в"
   },
 
   "refreshStartText": {
@@ -216,7 +216,7 @@
     "nl": "Verversen herstarten",
     "da": "Opdater på ny",
     "it": "Riavvia l'aggiornamento",
-	"ru": ""
+    "ru": "Перезапустить Обновить"
   },
 
   "refreshStopText": {
@@ -229,6 +229,6 @@
     "nl": "Stop verversen",
     "da": "Stop opdatering",
     "it": "Interrompere l'aggiornamento",
-	"ru": ""
+    "ru": "Стоп Обновить"
   }
 }
