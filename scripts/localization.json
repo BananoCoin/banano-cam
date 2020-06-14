@@ -8,7 +8,7 @@
     "fr": "Français",
     "nl": "Nederlands",
     "da": "Dansk",
-	"it": "Italiano"
+    "it": "Italiano"
   },
 
   "title": {
@@ -20,7 +20,7 @@
     "fr": "Banano Cam",
     "nl": "Banano Cam",
     "da": "Banano Cam",
-	"it": "Banano Cam"
+    "it": "Banano Cam"
   },
 
   "account": {
@@ -32,7 +32,7 @@
     "fr": "Compte",
     "nl": "Account",
     "da": "Konto",
-	"it": ""
+    "it": "Account"
   },
 
   "seed": {
@@ -44,7 +44,7 @@
     "fr": "Seed",
     "nl": "Seed",
     "da": "Seed",
-	"it": ""
+    "it": "Seed"
   },
 
   "browserOnly": {
@@ -56,7 +56,7 @@
     "fr": "Navigateur Seulement",
     "nl": "Alleen browser",
     "da": "Kun browser",
-	"it": ""
+    "it": "Solo Browser"
   },
 
   "changeAccount": {
@@ -68,7 +68,7 @@
     "fr": "Changement de compte",
     "nl": "Wijzig account",
     "da": "Skift konto",
-	"it": ""
+    "it": "Cambia Account"
   },
 
   "optional": {
@@ -80,7 +80,7 @@
     "fr": "Optionnel",
     "nl": "Optioneel",
     "da": "Optionel",
-	"it": ""
+    "it": "Opzionale"
   },
 
   "session": {
@@ -92,7 +92,7 @@
     "fr": "Session",
     "nl": "Sessie",
     "da": "Session",
-	"it": ""
+    "it": "Sessione"
   },
 
   "recording": {
@@ -104,7 +104,7 @@
     "fr": "Enregistrement",
     "nl": "Opnemen",
     "da": "Session",
-	"it": ""
+    "it": "Registrazione"
   },
 
   "newSession": {
@@ -116,7 +116,7 @@
     "fr": "Nouvelle Session",
     "nl": "Nieuwe sessie",
     "da": "Ny session",
-	"it": ""
+    "it": "Nuova Sessione"
   },
 
   "returningSesson": {
@@ -128,7 +128,7 @@
     "fr": "Reprendre session",
     "nl": "Terugkerende sessie",
     "da": "Gentagende session",
-	"it": ""
+    "it": "Riprendi Sessione"
   },
 
   "sessionKey": {
@@ -140,7 +140,7 @@
     "fr": "Clé de session",
     "nl": "Sessie sleutel",
     "da": "Sessionsnøgle",
-	"it": ""
+    "it": "Chiave Sessione"
   },
   "beginSession": {
     "en": "Begin Session",
@@ -151,7 +151,7 @@
     "fr": "Démarrer Session",
     "nl": "Begin sessie",
     "da": "Påbegynd session",
-	"it": ""
+    "it": "Inizia Sessione"
   },
 
   "footerText": {
@@ -163,7 +163,7 @@
     "fr": "Tous les emojis ont été conçus par OpenMoji - le projet open-source d'emoji et d'icônes.Licence: CC BY - SA 4.0.Toutes les code licence MIT, 2020. Ce site utilise des cookies pour stocker votre session. Tous les cookies sont effacés lorsque vous vous déconnectez.",
     "nl": "Alle emoji's zijn ontworpen door OpenMoji - het open-source emoji- en pictogramproject. Licentie: CC BY-SA 4.0. All Code MIT-licentie, 2020. Deze site gebruikt cookies om je sessie op te slaan. Alle cookies worden gewist wanneer u uitlogt.",
     "da": "Alle emojis designet af OpenMoji - the open-source emoji and icon project. Licens: CC BY-SA 4.0. All Code MIT license, 2020. Denne side anvender cookies til at gemme din session. Alle cookies slettes når du logger ud.",
-	"it": ""
+    "it": "Tutti gli emojis realizzati da OpenMoji– the open - source emoji and icon project.License: CC BY - SA 4.0.All Code MIT license, 2020.Questo sito utilizza i cookie per memorizzare la sessione. Tutti i cookie vengono cancellati quando ti disconnetti.",
   },
 
   "refresh": {
@@ -175,7 +175,7 @@
     "fr": "Rafraîchir",
     "nl": "Verversen",
     "da": "Opdater",
-	"it": ""
+    "it": "Ricaricare"
   },
 
   "refreshStatusText": {
@@ -187,7 +187,7 @@
     "fr": "Rafraîchissement en cours",
     "nl": "Verversen in",
     "da": "Opdaterer om",
-	"it": ""
+    "it": "Ricaricare in"
   },
 
   "refreshStartText": {
@@ -199,7 +199,7 @@
     "fr": "Redémarrer le rafraîchissement",
     "nl": "Verversen herstarten",
     "da": "Opdater på ny",
-	"it": ""
+    "it": "Riavvia l'aggiornamento"
   },
 
   "refreshStopText": {
@@ -211,6 +211,6 @@
     "fr": "Arrêter le rafraîchissement",
     "nl": "Stop verversen",
     "da": "Stop opdatering",
-	"it": ""
+    "it": "Interrompere l'aggiornamento"
   }
 }
