@@ -2,7 +2,9 @@
 
 this project is a no-sound camera, where any user can tip any other user.
 
-# to begin, create a config.json file like this:
+# add the following config file before you start:
+
+  ./config.json
 
     {
       "cookieSecret": "<your secret here>",
