@@ -40,7 +40,7 @@
     "da": "Konto",
     "it": "Account",
     "ru": "Аккаунт",
-    "fi": "",
+    "fi": "Tili",
     "fa": "حساب کاربر"
   },
 
@@ -55,7 +55,8 @@
     "da": "Seed",
     "it": "Seed",
     "ru": "Seed",
-    "fi": "",
+
+    "fi": "Seed",
     "fa": "seed"
   },
 
@@ -70,7 +71,7 @@
     "da": "Kun browser",
     "it": "Solo Browser",
     "ru": "Только браузер",
-    "fi": "",
+    "fi": "Vain selain",
     "fa": "فقط در مرورگر "
   },
 
@@ -84,8 +85,9 @@
     "nl": "Wijzig account",
     "da": "Skift konto",
     "it": "Cambia Account",
+    "ru": "Изменить аккаунт",
+    "fi": "Vaihda tili",
     "ru": "Только браузер",
-    "fi": "",
     "fa": "تغییر حساب کاربری"
   },
 
@@ -100,6 +102,7 @@
     "da": "Optionel",
     "it": "Opzionale",
     "ru": "Опционально",
+    "fi": "Valinnainen",
     "fi": "",
     "fa": "اختیاری "
   },
@@ -130,7 +133,7 @@
     "da": "Session",
     "it": "Registrazione",
     "ru": "Запись",
-    "fi": "",
+    "fi": "Istunto",
     "fa": "ضبط و نگارش"
   },
 
@@ -145,7 +148,7 @@
     "da": "Ny session",
     "it": "Nuova Sessione",
     "ru": "Новая сессия",
-    "fi": "",
+    "fi": "Uusi istunto",
     "fa": " جدید Session"
   },
 
@@ -160,7 +163,7 @@
     "da": "Gentagende session",
     "it": "Riprendi Sessione",
     "ru": "Возвращение сессии",
-    "fi": "",
+    "fi": "Paluuistunto",
     "fa": " Session بازگرداندن"
   },
 
@@ -175,7 +178,7 @@
     "da": "Sessionsnøgle",
     "it": "Chiave Sessione",
     "ru": "Ключ сессии",
-    "fi": "",
+    "fi": "Istunnon avain",
     "fa": "Session کلید"
   },
   "beginSession": {
@@ -189,7 +192,7 @@
     "da": "Påbegynd session",
     "it": "Inizia Sessione",
     "ru": "Начать сессию",
-    "fi": "",
+    "fi": "Aloita istunto",
     "fa": "Session آغاز"
   },
 
@@ -204,12 +207,12 @@
     "da": "Alle emojis designet af OpenMoji - the open-source emoji and icon project. Licens: CC BY-SA 4.0. All Code MIT license, 2020. Denne side anvender cookies til at gemme din session. Alle cookies slettes når du logger ud.",
     "it": "Tutti gli emojis realizzati da OpenMoji– the open - source emoji and icon project.License: CC BY - SA 4.0.All Code MIT license, 2020.Questo sito utilizza i cookie per memorizzare la sessione. Tutti i cookie vengono cancellati quando ti disconnetti.",
     "ru": "Все смайлики, разработанные OpenMoji - проект смайликов и иконок с открытым исходным кодом. Лицензия: CC BY - SA 4.0. Лицензия на все коды MIT, 2020. Этот сайт использует cookies для хранения вашей сессии. Все cookies очищаются при выходе из системы.",
-    "fi": "",
+    "fi": "Kaikki emojis suunnitellut OpenMoji– the open - source emoji and icon project.Lisenssi: CC BY - SA 4.0.All Code MIT license, 2020. Tämä sivusto käyttää evästeitä istunnon tallentamiseen. Kaikki evästeet poistetaan, kun kirjaudut ulos.",
     "fa": "All emojis designed by OpenMoji– the open - source emoji and icon project.License: CC BY - SA 4.0.All Code MIT license, 2020. این سایت از کوکی برای نگهداری نشست کاربر استفاده می کند و در هنگام خروج از سایت کلیه کوکی ها پاک می شود."
   },
   
   "refresh": {
-    "en": "Refresh",
+    "en": "Virkistää",
     "es": "Actualizar",
     "de": "Aktualisieren",
     "no": "Oppfrisk",
@@ -234,7 +237,7 @@
     "da": "Opdaterer om",
     "it": "Ricaricare in",
     "ru": "Обновить в",
-    "fi": "",
+    "fi": "Päivitä",
     "fa": "بارگذاری مجدد"
   },
 
@@ -249,7 +252,7 @@
     "da": "Opdater på ny",
     "it": "Riavvia l'aggiornamento",
     "ru": "Перезапустить Обновить",
-    "fi": "",
+    "fi": "Käynnistä päivitys uudelleen",
     "fa": "مجدد بارگذاری نمایید."
   },
 
@@ -264,7 +267,7 @@
     "da": "Stop opdatering",
     "it": "Interrompere l'aggiornamento",
     "ru": "Стоп Обновить",
-    "fi": "",
+    "fi": "Lopeta päivitys",
     "fa": "از بارگیری مجدد خوداری کنید."
   }
 }
