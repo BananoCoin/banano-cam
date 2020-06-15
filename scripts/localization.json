@@ -9,7 +9,8 @@
     "nl": "Nederlands",
     "da": "Dansk",
     "it": "Italiano",
-    "ru": "Русский"
+    "ru": "Русский",
+    "fi": "Suomi"
   },
 
   "title": {
@@ -22,7 +23,8 @@
     "nl": "Banano Cam",
     "da": "Banano Cam",
     "it": "Banano Cam",
-    "ru": "Banano камера"
+    "ru": "Banano камера",
+    "fi": "Banano Cam"
   },
 
   "account": {
@@ -35,7 +37,8 @@
     "nl": "Account",
     "da": "Konto",
     "it": "Account",
-    "ru": "Аккаунт"
+    "ru": "Аккаунт",
+    "fi": ""
   },
 
   "seed": {
@@ -48,7 +51,8 @@
     "nl": "Seed",
     "da": "Seed",
     "it": "Seed",
-    "ru": "Seed"
+    "ru": "Seed",
+    "fi": ""
   },
 
   "browserOnly": {
@@ -61,7 +65,8 @@
     "nl": "Alleen browser",
     "da": "Kun browser",
     "it": "Solo Browser",
-    "ru": "Только браузер"
+    "ru": "Только браузер",
+    "fi": ""
   },
 
   "changeAccount": {
@@ -74,7 +79,8 @@
     "nl": "Wijzig account",
     "da": "Skift konto",
     "it": "Cambia Account",
-    "ru": "Только браузер"
+    "ru": "Только браузер",
+    "fi": ""
   },
 
   "optional": {
@@ -87,7 +93,8 @@
     "nl": "Optioneel",
     "da": "Optionel",
     "it": "Opzionale",
-    "ru": "Опционально"
+    "ru": "Опционально",
+    "fi": ""
   },
 
   "session": {
@@ -100,7 +107,8 @@
     "nl": "Sessie",
     "da": "Session",
     "it": "Sessione",
-    "ru": "Сессия"
+    "ru": "Сессия",
+    "fi": ""
   },
 
   "recording": {
@@ -113,7 +121,8 @@
     "nl": "Opnemen",
     "da": "Session",
     "it": "Registrazione",
-    "ru": "Запись"
+    "ru": "Запись",
+    "fi": ""
   },
 
   "newSession": {
@@ -126,7 +135,8 @@
     "nl": "Nieuwe sessie",
     "da": "Ny session",
     "it": "Nuova Sessione",
-    "ru": "Новая сессия"
+    "ru": "Новая сессия",
+    "fi": ""
   },
 
   "returningSesson": {
@@ -139,7 +149,8 @@
     "nl": "Terugkerende sessie",
     "da": "Gentagende session",
     "it": "Riprendi Sessione",
-    "ru": "Возвращение сессии"
+    "ru": "Возвращение сессии",
+    "fi": ""
   },
 
   "sessionKey": {
@@ -152,7 +163,8 @@
     "nl": "Sessie sleutel",
     "da": "Sessionsnøgle",
     "it": "Chiave Sessione",
-    "ru": "Ключ сессии"
+    "ru": "Ключ сессии",
+    "fi": ""
   },
   "beginSession": {
     "en": "Begin Session",
@@ -164,7 +176,8 @@
     "nl": "Begin sessie",
     "da": "Påbegynd session",
     "it": "Inizia Sessione",
-    "ru": "Начать сессию"
+    "ru": "Начать сессию",
+    "fi": ""
   },
 
   "footerText": {
@@ -177,7 +190,8 @@
     "nl": "Alle emoji's zijn ontworpen door OpenMoji - het open-source emoji- en pictogramproject. Licentie: CC BY-SA 4.0. All Code MIT-licentie, 2020. Deze site gebruikt cookies om je sessie op te slaan. Alle cookies worden gewist wanneer u uitlogt.",
     "da": "Alle emojis designet af OpenMoji - the open-source emoji and icon project. Licens: CC BY-SA 4.0. All Code MIT license, 2020. Denne side anvender cookies til at gemme din session. Alle cookies slettes når du logger ud.",
     "it": "Tutti gli emojis realizzati da OpenMoji– the open - source emoji and icon project.License: CC BY - SA 4.0.All Code MIT license, 2020.Questo sito utilizza i cookie per memorizzare la sessione. Tutti i cookie vengono cancellati quando ti disconnetti.",
-    "ru": "Все смайлики, разработанные OpenMoji - проект смайликов и иконок с открытым исходным кодом. Лицензия: CC BY - SA 4.0. Лицензия на все коды MIT, 2020. Этот сайт использует cookies для хранения вашей сессии. Все cookies очищаются при выходе из системы."
+    "ru": "Все смайлики, разработанные OpenMoji - проект смайликов и иконок с открытым исходным кодом. Лицензия: CC BY - SA 4.0. Лицензия на все коды MIT, 2020. Этот сайт использует cookies для хранения вашей сессии. Все cookies очищаются при выходе из системы.",
+    "fi": ""
   },
 
   "refresh": {
@@ -190,7 +204,8 @@
     "nl": "Verversen",
     "da": "Opdater",
     "it": "Ricaricare",
-    "ru": "Обновление"
+    "ru": "Обновление",
+    "fi": ""
   },
 
   "refreshStatusText": {
@@ -203,7 +218,8 @@
     "nl": "Verversen in",
     "da": "Opdaterer om",
     "it": "Ricaricare in",
-    "ru": "Обновить в"
+    "ru": "Обновить в",
+    "fi": ""
   },
 
   "refreshStartText": {
@@ -216,7 +232,8 @@
     "nl": "Verversen herstarten",
     "da": "Opdater på ny",
     "it": "Riavvia l'aggiornamento",
-    "ru": "Перезапустить Обновить"
+    "ru": "Перезапустить Обновить",
+    "fi": ""
   },
 
   "refreshStopText": {
@@ -229,6 +246,7 @@
     "nl": "Stop verversen",
     "da": "Stop opdatering",
     "it": "Interrompere l'aggiornamento",
-    "ru": "Стоп Обновить"
+    "ru": "Стоп Обновить",
+    "fi": ""
   }
 }
