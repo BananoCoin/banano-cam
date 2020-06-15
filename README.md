@@ -2,6 +2,10 @@
 
 this project is a no-sound camera, where any user can tip any other user.
 
+# to begin, create a config.json file like
+
+  [scripts/config.json](scripts/config.json)
+
 # run the following command to start:
 
   npm start;
