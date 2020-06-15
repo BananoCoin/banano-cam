@@ -11,7 +11,7 @@
     "it": "Italiano",
     "ru": "Русский",
     "fi": "Suomi",
-	"fa": ""
+    "fa": "فارسی"
   },
 
   "title": {
@@ -26,7 +26,7 @@
     "it": "Banano Cam",
     "ru": "Banano камера",
     "fi": "Banano Cam",
-	"fa": ""
+    "fa": "دوربین بنانو"
   },
 
   "account": {
@@ -41,7 +41,7 @@
     "it": "Account",
     "ru": "Аккаунт",
     "fi": "",
-	"fa": ""
+    "fa": "حساب کاربر"
   },
 
   "seed": {
@@ -56,7 +56,7 @@
     "it": "Seed",
     "ru": "Seed",
     "fi": "",
-	"fa": ""
+    "fa": "seed"
   },
 
   "browserOnly": {
@@ -71,7 +71,7 @@
     "it": "Solo Browser",
     "ru": "Только браузер",
     "fi": "",
-	"fa": ""
+    "fa": "فقط در مرورگر "
   },
 
   "changeAccount": {
@@ -86,7 +86,7 @@
     "it": "Cambia Account",
     "ru": "Только браузер",
     "fi": "",
-	"fa": ""
+    "fa": "تغییر حساب کاربری"
   },
 
   "optional": {
@@ -101,7 +101,7 @@
     "it": "Opzionale",
     "ru": "Опционально",
     "fi": "",
-	"fa": ""
+    "fa": "اختیاری "
   },
 
   "session": {
@@ -115,7 +115,8 @@
     "da": "Session",
     "it": "Sessione",
     "ru": "Сессия",
-    "fi": ""
+    "fi": "Session",
+    "fa": "Session"	
   },
 
   "recording": {
@@ -130,7 +131,7 @@
     "it": "Registrazione",
     "ru": "Запись",
     "fi": "",
-	"fa": ""
+    "fa": "ضبط و نگارش"
   },
 
   "newSession": {
@@ -145,7 +146,7 @@
     "it": "Nuova Sessione",
     "ru": "Новая сессия",
     "fi": "",
-	"fa": ""
+    "fa": " جدید Session"
   },
 
   "returningSesson": {
@@ -160,7 +161,7 @@
     "it": "Riprendi Sessione",
     "ru": "Возвращение сессии",
     "fi": "",
-	"fa": ""
+    "fa": " Session بازگرداندن"
   },
 
   "sessionKey": {
@@ -175,7 +176,7 @@
     "it": "Chiave Sessione",
     "ru": "Ключ сессии",
     "fi": "",
-	"fa": ""
+    "fa": "Session کلید"
   },
   "beginSession": {
     "en": "Begin Session",
@@ -189,7 +190,7 @@
     "it": "Inizia Sessione",
     "ru": "Начать сессию",
     "fi": "",
-	"fa": ""
+    "fa": "Session آغاز"
   },
 
   "footerText": {
@@ -204,9 +205,9 @@
     "it": "Tutti gli emojis realizzati da OpenMoji– the open - source emoji and icon project.License: CC BY - SA 4.0.All Code MIT license, 2020.Questo sito utilizza i cookie per memorizzare la sessione. Tutti i cookie vengono cancellati quando ti disconnetti.",
     "ru": "Все смайлики, разработанные OpenMoji - проект смайликов и иконок с открытым исходным кодом. Лицензия: CC BY - SA 4.0. Лицензия на все коды MIT, 2020. Этот сайт использует cookies для хранения вашей сессии. Все cookies очищаются при выходе из системы.",
     "fi": "",
-	"fa": ""
+    "fa": "All emojis designed by OpenMoji– the open - source emoji and icon project.License: CC BY - SA 4.0.All Code MIT license, 2020. این سایت از کوکی برای نگهداری نشست کاربر استفاده می کند و در هنگام خروج از سایت کلیه کوکی ها پاک می شود."
   },
-
+  
   "refresh": {
     "en": "Refresh",
     "es": "Actualizar",
@@ -219,7 +220,7 @@
     "it": "Ricaricare",
     "ru": "Обновление",
     "fi": "",
-	"fa": ""
+    "fa": "بارگذاری"
   },
 
   "refreshStatusText": {
@@ -234,7 +235,7 @@
     "it": "Ricaricare in",
     "ru": "Обновить в",
     "fi": "",
-	"fa": ""
+    "fa": "بارگذاری مجدد"
   },
 
   "refreshStartText": {
@@ -249,7 +250,7 @@
     "it": "Riavvia l'aggiornamento",
     "ru": "Перезапустить Обновить",
     "fi": "",
-	"fa": ""
+    "fa": "مجدد بارگذاری نمایید."
   },
 
   "refreshStopText": {
@@ -264,6 +265,6 @@
     "it": "Interrompere l'aggiornamento",
     "ru": "Стоп Обновить",
     "fi": "",
-	"fa": ""
+    "fa": "از بارگیری مجدد خوداری کنید."
   }
 }
