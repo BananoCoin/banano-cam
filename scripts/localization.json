@@ -55,6 +55,7 @@
     "da": "Seed",
     "it": "Seed",
     "ru": "Seed",
+
     "fi": "Seed",
     "fa": "seed"
   },
@@ -86,6 +87,7 @@
     "it": "Cambia Account",
     "ru": "Изменить аккаунт",
     "fi": "Vaihda tili",
+    "ru": "Только браузер",
     "fa": "تغییر حساب کاربری"
   },
 
@@ -101,6 +103,7 @@
     "it": "Opzionale",
     "ru": "Опционально",
     "fi": "Valinnainen",
+    "fi": "",
     "fa": "اختیاری "
   },
 
