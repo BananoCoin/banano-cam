@@ -91,7 +91,6 @@
     "it": "Cambia Account",
     "ru": "Изменить аккаунт",
     "fi": "Vaihda tili",
-    "ru": "Только браузер",
     "fa": "تغییر حساب کاربری",
     "id": ""
   },
@@ -191,6 +190,7 @@
     "fa": "Session کلید",
     "id": ""
   },
+  
   "beginSession": {
     "en": "Begin Session",
     "es": "Inicie Sesión",
