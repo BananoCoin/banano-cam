@@ -12,7 +12,7 @@
     "ru": "Русский",
     "fi": "Suomi",
     "fa": "فارسی",
-    "id": ""
+    "id": "Bahasa Indonesia"
   },
 
   "title": {
@@ -28,7 +28,7 @@
     "ru": "Banano камера",
     "fi": "Banano Cam",
     "fa": "دوربین بنانو",
-    "id": ""
+    "id": "Kamera Banano"
   },
 
   "account": {
@@ -44,7 +44,7 @@
     "ru": "Аккаунт",
     "fi": "Tili",
     "fa": "حساب کاربر",
-    "id": ""
+    "id": "Akun"
   },
 
   "seed": {
@@ -60,7 +60,7 @@
     "ru": "Seed",
     "fi": "Seed",
     "fa": "seed",
-    "id": ""
+    "id": "Seed"
   },
 
   "browserOnly": {
@@ -76,7 +76,7 @@
     "ru": "Только браузер",
     "fi": "Vain selain",
     "fa": "فقط در مرورگر ",
-    "id": ""
+    "id": "Hanya Browser"
   },
 
   "changeAccount": {
@@ -92,7 +92,7 @@
     "ru": "Изменить аккаунт",
     "fi": "Vaihda tili",
     "fa": "تغییر حساب کاربری",
-    "id": ""
+    "id": "Ganti Akun"
   },
 
   "optional": {
@@ -108,7 +108,7 @@
     "ru": "Опционально",
     "fi": "Valinnainen",
     "fa": "اختیاری ",
-    "id": ""
+    "id": "Opsional"
   },
 
   "session": {
@@ -124,7 +124,7 @@
     "ru": "Сессия",
     "fi": "Session",
     "fa": "Session",
-    "id": ""
+    "id": "Sesi"
   },
 
   "recording": {
@@ -140,7 +140,7 @@
     "ru": "Запись",
     "fi": "Istunto",
     "fa": "ضبط و نگارش",
-    "id": ""
+    "id": "Rekaman"
   },
 
   "newSession": {
@@ -156,7 +156,7 @@
     "ru": "Новая сессия",
     "fi": "Uusi istunto",
     "fa": " جدید Session",
-    "id": ""
+    "id": "Sesi Baru"
   },
 
   "returningSesson": {
@@ -172,7 +172,7 @@
     "ru": "Возвращение сессии",
     "fi": "Paluuistunto",
     "fa": " Session بازگرداندن",
-    "id": ""
+    "id": "Pengembalian Sesi"
   },
 
   "sessionKey": {
@@ -188,7 +188,7 @@
     "ru": "Ключ сессии",
     "fi": "Istunnon avain",
     "fa": "Session کلید",
-    "id": ""
+    "id": "Kunci Sesi"
   },
   
   "beginSession": {
@@ -204,7 +204,7 @@
     "ru": "Начать сессию",
     "fi": "Aloita istunto",
     "fa": "Session آغاز",
-    "id": ""
+    "id": "Mulai Sesi"
   },
 
   "footerText": {
@@ -220,7 +220,7 @@
     "ru": "Все смайлики, разработанные OpenMoji - проект смайликов и иконок с открытым исходным кодом. Лицензия: CC BY - SA 4.0. Лицензия на все коды MIT, 2020. Этот сайт использует cookies для хранения вашей сессии. Все cookies очищаются при выходе из системы.",
     "fi": "Kaikki emojis suunnitellut OpenMoji– the open - source emoji and icon project.Lisenssi: CC BY - SA 4.0.All Code MIT license, 2020. Tämä sivusto käyttää evästeitä istunnon tallentamiseen. Kaikki evästeet poistetaan, kun kirjaudut ulos.",
     "fa": "All emojis designed by OpenMoji– the open - source emoji and icon project.License: CC BY - SA 4.0.All Code MIT license, 2020. این سایت از کوکی برای نگهداری نشست کاربر استفاده می کند و در هنگام خروج از سایت کلیه کوکی ها پاک می شود.",
-    "id": ""
+    "id": "Semua emoji di desain oleh OpenMoji– sumber emoji terbuka dan proyek ikon. Lisensi: CC BY - SA 4.0. Semua lisensi Kode MIT, 2020. Situs ini menggunakan cookie untuk menyimpan sesi Anda. Semua cookie dihapus saat Anda keluar."
   },
   
   "refresh": {
@@ -236,7 +236,7 @@
     "ru": "Обновление",
     "fi": "Virkistää",
     "fa": "بارگذاری",
-    "id": ""
+    "id": "Menyegarkan"
   },
 
   "refreshStatusText": {
@@ -252,7 +252,7 @@
     "ru": "Обновить в",
     "fi": "Päivitä",
     "fa": "بارگذاری مجدد",
-    "id": ""
+    "id": "Menyegarkan dalam"
   },
 
   "refreshStartText": {
@@ -268,7 +268,7 @@
     "ru": "Перезапустить Обновить",
     "fi": "Käynnistä päivitys uudelleen",
     "fa": "مجدد بارگذاری نمایید.",
-    "id": ""
+    "id": "Mulai Penyegaran"
   },
 
   "refreshStopText": {
@@ -284,6 +284,6 @@
     "ru": "Стоп Обновить",
     "fi": "Lopeta päivitys",
     "fa": "از بارگیری مجدد خوداری کنید.",
-    "id": ""
+    "id": "Hentikan Penyegaran"
   }
 }
