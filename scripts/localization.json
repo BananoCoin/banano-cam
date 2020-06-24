@@ -12,7 +12,8 @@
     "ru": "Русский",
     "fi": "Suomi",
     "fa": "فارسی",
-    "id": "Bahasa Indonesia"
+    "id": "Bahasa Indonesia",
+    "pt_br": "Português Brasil"
   },
 
   "title": {
@@ -28,7 +29,8 @@
     "ru": "Banano камера",
     "fi": "Banano Cam",
     "fa": "دوربین بنانو",
-    "id": "Kamera Banano"
+    "id": "Kamera Banano",
+    "pt_br": "Câmera Banano"
   },
 
   "account": {
@@ -44,7 +46,8 @@
     "ru": "Аккаунт",
     "fi": "Tili",
     "fa": "حساب کاربر",
-    "id": "Akun"
+    "id": "Akun",
+    "pt_br": "Conta"
   },
 
   "seed": {
@@ -60,7 +63,8 @@
     "ru": "Seed",
     "fi": "Seed",
     "fa": "seed",
-    "id": "Seed"
+    "id": "Seed",
+    "pt_br": "Seed"
   },
 
   "browserOnly": {
@@ -76,7 +80,8 @@
     "ru": "Только браузер",
     "fi": "Vain selain",
     "fa": "فقط در مرورگر ",
-    "id": "Hanya Browser"
+    "id": "Hanya Browser",
+    "pt_br": "Apênas no Browser"
   },
 
   "changeAccount": {
@@ -92,7 +97,8 @@
     "ru": "Изменить аккаунт",
     "fi": "Vaihda tili",
     "fa": "تغییر حساب کاربری",
-    "id": "Ganti Akun"
+    "id": "Ganti Akun",
+    "pt_br": "Mudar conta"
   },
 
   "optional": {
@@ -108,7 +114,8 @@
     "ru": "Опционально",
     "fi": "Valinnainen",
     "fa": "اختیاری ",
-    "id": "Opsional"
+    "id": "Opsional",
+    "pt_br": "Opcional"
   },
 
   "session": {
@@ -124,7 +131,8 @@
     "ru": "Сессия",
     "fi": "Session",
     "fa": "Session",
-    "id": "Sesi"
+    "id": "Sesi",
+    "pt_br": "Sessão"
   },
 
   "recording": {
@@ -140,7 +148,8 @@
     "ru": "Запись",
     "fi": "Istunto",
     "fa": "ضبط و نگارش",
-    "id": "Rekaman"
+    "id": "Rekaman",
+    "pt_br": "Gravando"
   },
 
   "newSession": {
@@ -156,7 +165,8 @@
     "ru": "Новая сессия",
     "fi": "Uusi istunto",
     "fa": " جدید Session",
-    "id": "Sesi Baru"
+    "id": "Sesi Baru",
+    "pt_br": "Nova Sessão"
   },
 
   "returningSesson": {
@@ -172,7 +182,8 @@
     "ru": "Возвращение сессии",
     "fi": "Paluuistunto",
     "fa": " Session بازگرداندن",
-    "id": "Pengembalian Sesi"
+    "id": "Pengembalian Sesi",
+    "pt_br": "Voltar para a Sessão"
   },
 
   "sessionKey": {
@@ -188,9 +199,10 @@
     "ru": "Ключ сессии",
     "fi": "Istunnon avain",
     "fa": "Session کلید",
-    "id": "Kunci Sesi"
+    "id": "Kunci Sesi",
+    "pt_br": "Chave da Sessão"
   },
-  
+
   "beginSession": {
     "en": "Begin Session",
     "es": "Inicie Sesión",
@@ -204,7 +216,8 @@
     "ru": "Начать сессию",
     "fi": "Aloita istunto",
     "fa": "Session آغاز",
-    "id": "Mulai Sesi"
+    "id": "Mulai Sesi",
+    "pt_br": "Iniciar Sessão"
   },
 
   "footerText": {
@@ -220,9 +233,10 @@
     "ru": "Все смайлики, разработанные OpenMoji - проект смайликов и иконок с открытым исходным кодом. Лицензия: CC BY - SA 4.0. Лицензия на все коды MIT, 2020. Этот сайт использует cookies для хранения вашей сессии. Все cookies очищаются при выходе из системы.",
     "fi": "Kaikki emojis suunnitellut OpenMoji– the open - source emoji and icon project.Lisenssi: CC BY - SA 4.0.All Code MIT license, 2020. Tämä sivusto käyttää evästeitä istunnon tallentamiseen. Kaikki evästeet poistetaan, kun kirjaudut ulos.",
     "fa": "All emojis designed by OpenMoji– the open - source emoji and icon project.License: CC BY - SA 4.0.All Code MIT license, 2020. این سایت از کوکی برای نگهداری نشست کاربر استفاده می کند و در هنگام خروج از سایت کلیه کوکی ها پاک می شود.",
-    "id": "Semua emoji di desain oleh OpenMoji– sumber emoji terbuka dan proyek ikon. Lisensi: CC BY - SA 4.0. Semua lisensi Kode MIT, 2020. Situs ini menggunakan cookie untuk menyimpan sesi Anda. Semua cookie dihapus saat Anda keluar."
+    "id": "Semua emoji di desain oleh OpenMoji– sumber emoji terbuka dan proyek ikon. Lisensi: CC BY - SA 4.0. Semua lisensi Kode MIT, 2020. Situs ini menggunakan cookie untuk menyimpan sesi Anda. Semua cookie dihapus saat Anda keluar.",
+    "pt_br": "Todos os emojis foram desenhados pelo OpenMoji– the open - source emoji and icon project.License: CC BY - SA 4.0.All Code MIT license, 2020. Esse site utiliza cookies para salvar sua sessão. Todos os cookies são limpos quando você se deslogar."
   },
-  
+
   "refresh": {
     "en": "Virkistää",
     "es": "Actualizar",
@@ -236,7 +250,8 @@
     "ru": "Обновление",
     "fi": "Virkistää",
     "fa": "بارگذاری",
-    "id": "Menyegarkan"
+    "id": "Menyegarkan",
+    "pt_br": "Atualizar"
   },
 
   "refreshStatusText": {
@@ -252,7 +267,8 @@
     "ru": "Обновить в",
     "fi": "Päivitä",
     "fa": "بارگذاری مجدد",
-    "id": "Menyegarkan dalam"
+    "id": "Menyegarkan dalam",
+    "pt_br": "Atualizar em"
   },
 
   "refreshStartText": {
@@ -268,7 +284,8 @@
     "ru": "Перезапустить Обновить",
     "fi": "Käynnistä päivitys uudelleen",
     "fa": "مجدد بارگذاری نمایید.",
-    "id": "Mulai Penyegaran"
+    "id": "Mulai Penyegaran",
+    "pt_br": "Reiniciar Refresh"
   },
 
   "refreshStopText": {
@@ -284,6 +301,7 @@
     "ru": "Стоп Обновить",
     "fi": "Lopeta päivitys",
     "fa": "از بارگیری مجدد خوداری کنید.",
-    "id": "Hentikan Penyegaran"
+    "id": "Hentikan Penyegaran",
+    "pt_br": "Parar Refresh"
   }
 }
