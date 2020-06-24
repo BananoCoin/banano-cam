@@ -13,7 +13,8 @@
     "fi": "Suomi",
     "fa": "فارسی",
     "id": "Bahasa Indonesia",
-    "pt_br": "Português Brasil"
+    "pt_br": "Português Brasil",
+    "pl": "Polski"
   },
 
   "title": {
@@ -30,7 +31,8 @@
     "fi": "Banano Cam",
     "fa": "دوربین بنانو",
     "id": "Kamera Banano",
-    "pt_br": "Câmera Banano"
+    "pt_br": "Câmera Banano",
+    "pl": ""
   },
 
   "account": {
@@ -47,7 +49,8 @@
     "fi": "Tili",
     "fa": "حساب کاربر",
     "id": "Akun",
-    "pt_br": "Conta"
+    "pt_br": "Conta",
+    "pl": ""
   },
 
   "seed": {
@@ -64,7 +67,8 @@
     "fi": "Seed",
     "fa": "seed",
     "id": "Seed",
-    "pt_br": "Seed"
+    "pt_br": "Seed",
+    "pl": ""
   },
 
   "browserOnly": {
@@ -81,7 +85,8 @@
     "fi": "Vain selain",
     "fa": "فقط در مرورگر ",
     "id": "Hanya Browser",
-    "pt_br": "Apênas no Browser"
+    "pt_br": "Apênas no Browser",
+    "pl": ""
   },
 
   "changeAccount": {
@@ -98,7 +103,8 @@
     "fi": "Vaihda tili",
     "fa": "تغییر حساب کاربری",
     "id": "Ganti Akun",
-    "pt_br": "Mudar conta"
+    "pt_br": "Mudar conta",
+    "pl": ""
   },
 
   "optional": {
@@ -115,7 +121,8 @@
     "fi": "Valinnainen",
     "fa": "اختیاری ",
     "id": "Opsional",
-    "pt_br": "Opcional"
+    "pt_br": "Opcional",
+    "pl": ""
   },
 
   "session": {
@@ -132,7 +139,8 @@
     "fi": "Session",
     "fa": "Session",
     "id": "Sesi",
-    "pt_br": "Sessão"
+    "pt_br": "Sessão",
+    "pl": ""
   },
 
   "recording": {
@@ -149,7 +157,8 @@
     "fi": "Istunto",
     "fa": "ضبط و نگارش",
     "id": "Rekaman",
-    "pt_br": "Gravando"
+    "pt_br": "Gravando",
+    "pl": ""
   },
 
   "newSession": {
@@ -166,7 +175,8 @@
     "fi": "Uusi istunto",
     "fa": " جدید Session",
     "id": "Sesi Baru",
-    "pt_br": "Nova Sessão"
+    "pt_br": "Nova Sessão",
+    "pl": ""
   },
 
   "returningSesson": {
@@ -183,7 +193,8 @@
     "fi": "Paluuistunto",
     "fa": " Session بازگرداندن",
     "id": "Pengembalian Sesi",
-    "pt_br": "Voltar para a Sessão"
+    "pt_br": "Voltar para a Sessão",
+    "pl": ""
   },
 
   "sessionKey": {
@@ -200,7 +211,8 @@
     "fi": "Istunnon avain",
     "fa": "Session کلید",
     "id": "Kunci Sesi",
-    "pt_br": "Chave da Sessão"
+    "pt_br": "Chave da Sessão",
+    "pl": ""
   },
 
   "beginSession": {
@@ -217,7 +229,8 @@
     "fi": "Aloita istunto",
     "fa": "Session آغاز",
     "id": "Mulai Sesi",
-    "pt_br": "Iniciar Sessão"
+    "pt_br": "Iniciar Sessão",
+    "pl": ""
   },
 
   "footerText": {
@@ -234,7 +247,8 @@
     "fi": "Kaikki emojis suunnitellut OpenMoji– the open - source emoji and icon project.Lisenssi: CC BY - SA 4.0.All Code MIT license, 2020. Tämä sivusto käyttää evästeitä istunnon tallentamiseen. Kaikki evästeet poistetaan, kun kirjaudut ulos.",
     "fa": "All emojis designed by OpenMoji– the open - source emoji and icon project.License: CC BY - SA 4.0.All Code MIT license, 2020. این سایت از کوکی برای نگهداری نشست کاربر استفاده می کند و در هنگام خروج از سایت کلیه کوکی ها پاک می شود.",
     "id": "Semua emoji di desain oleh OpenMoji– sumber emoji terbuka dan proyek ikon. Lisensi: CC BY - SA 4.0. Semua lisensi Kode MIT, 2020. Situs ini menggunakan cookie untuk menyimpan sesi Anda. Semua cookie dihapus saat Anda keluar.",
-    "pt_br": "Todos os emojis foram desenhados pelo OpenMoji– the open - source emoji and icon project.License: CC BY - SA 4.0.All Code MIT license, 2020. Esse site utiliza cookies para salvar sua sessão. Todos os cookies são limpos quando você se deslogar."
+    "pt_br": "Todos os emojis foram desenhados pelo OpenMoji– the open - source emoji and icon project.License: CC BY - SA 4.0.All Code MIT license, 2020. Esse site utiliza cookies para salvar sua sessão. Todos os cookies são limpos quando você se deslogar.",
+    "pl": ""
   },
 
   "refresh": {
@@ -251,7 +265,8 @@
     "fi": "Virkistää",
     "fa": "بارگذاری",
     "id": "Menyegarkan",
-    "pt_br": "Atualizar"
+    "pt_br": "Atualizar",
+    "pl": ""
   },
 
   "refreshStatusText": {
@@ -268,7 +283,8 @@
     "fi": "Päivitä",
     "fa": "بارگذاری مجدد",
     "id": "Menyegarkan dalam",
-    "pt_br": "Atualizar em"
+    "pt_br": "Atualizar em",
+    "pl": ""
   },
 
   "refreshStartText": {
@@ -285,7 +301,8 @@
     "fi": "Käynnistä päivitys uudelleen",
     "fa": "مجدد بارگذاری نمایید.",
     "id": "Mulai Penyegaran",
-    "pt_br": "Reiniciar Refresh"
+    "pt_br": "Reiniciar Refresh",
+    "pl": ""
   },
 
   "refreshStopText": {
@@ -302,6 +319,7 @@
     "fi": "Lopeta päivitys",
     "fa": "از بارگیری مجدد خوداری کنید.",
     "id": "Hentikan Penyegaran",
-    "pt_br": "Parar Refresh"
+    "pt_br": "Parar Refresh",
+    "pl": ""
   }
 }
