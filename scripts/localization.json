@@ -32,7 +32,7 @@
     "fa": "دوربین بنانو",
     "id": "Kamera Banano",
     "pt_br": "Câmera Banano",
-    "pl": ""
+    "pl": "Kamera Banano"
   },
 
   "account": {
@@ -50,7 +50,7 @@
     "fa": "حساب کاربر",
     "id": "Akun",
     "pt_br": "Conta",
-    "pl": ""
+    "pl": "Konto"
   },
 
   "seed": {
@@ -68,7 +68,7 @@
     "fa": "seed",
     "id": "Seed",
     "pt_br": "Seed",
-    "pl": ""
+    "pl": "Seed"
   },
 
   "browserOnly": {
@@ -86,7 +86,7 @@
     "fa": "فقط در مرورگر ",
     "id": "Hanya Browser",
     "pt_br": "Apênas no Browser",
-    "pl": ""
+    "pl": "Tylko przeglądarka"
   },
 
   "changeAccount": {
@@ -104,7 +104,7 @@
     "fa": "تغییر حساب کاربری",
     "id": "Ganti Akun",
     "pt_br": "Mudar conta",
-    "pl": ""
+    "pl": "Zmień konto"
   },
 
   "optional": {
@@ -122,7 +122,7 @@
     "fa": "اختیاری ",
     "id": "Opsional",
     "pt_br": "Opcional",
-    "pl": ""
+    "pl": "Opcjonalnie"
   },
 
   "session": {
@@ -140,7 +140,7 @@
     "fa": "Session",
     "id": "Sesi",
     "pt_br": "Sessão",
-    "pl": ""
+    "pl": "Sesja"
   },
 
   "recording": {
@@ -158,7 +158,7 @@
     "fa": "ضبط و نگارش",
     "id": "Rekaman",
     "pt_br": "Gravando",
-    "pl": ""
+    "pl": "Nagrywanie"
   },
 
   "newSession": {
@@ -176,7 +176,7 @@
     "fa": " جدید Session",
     "id": "Sesi Baru",
     "pt_br": "Nova Sessão",
-    "pl": ""
+    "pl": "Nowa sesja"
   },
 
   "returningSesson": {
@@ -194,7 +194,7 @@
     "fa": " Session بازگرداندن",
     "id": "Pengembalian Sesi",
     "pt_br": "Voltar para a Sessão",
-    "pl": ""
+    "pl": "Powrót do sesji"
   },
 
   "sessionKey": {
@@ -212,7 +212,7 @@
     "fa": "Session کلید",
     "id": "Kunci Sesi",
     "pt_br": "Chave da Sessão",
-    "pl": ""
+    "pl": "Klucz sesji"
   },
 
   "beginSession": {
@@ -230,7 +230,7 @@
     "fa": "Session آغاز",
     "id": "Mulai Sesi",
     "pt_br": "Iniciar Sessão",
-    "pl": ""
+    "pl": "Rozpocznij sesję"
   },
 
   "footerText": {
@@ -248,7 +248,7 @@
     "fa": "All emojis designed by OpenMoji– the open - source emoji and icon project.License: CC BY - SA 4.0.All Code MIT license, 2020. این سایت از کوکی برای نگهداری نشست کاربر استفاده می کند و در هنگام خروج از سایت کلیه کوکی ها پاک می شود.",
     "id": "Semua emoji di desain oleh OpenMoji– sumber emoji terbuka dan proyek ikon. Lisensi: CC BY - SA 4.0. Semua lisensi Kode MIT, 2020. Situs ini menggunakan cookie untuk menyimpan sesi Anda. Semua cookie dihapus saat Anda keluar.",
     "pt_br": "Todos os emojis foram desenhados pelo OpenMoji– the open - source emoji and icon project.License: CC BY - SA 4.0.All Code MIT license, 2020. Esse site utiliza cookies para salvar sua sessão. Todos os cookies são limpos quando você se deslogar.",
-    "pl": ""
+    "pl": "Wszystkie emoji zostały stworzone przez OpenEmoji - projekt ogólnodostępny emoji projektów ikon. Licensja: CC BY - SA 4.0.All Code Mit , 2020. Ta strona używa ciasteczek. Twoje ciasteczka są usuniętę po wylogowaniu."
   },
 
   "refresh": {
@@ -266,7 +266,7 @@
     "fa": "بارگذاری",
     "id": "Menyegarkan",
     "pt_br": "Atualizar",
-    "pl": ""
+    "pl": "Odśwież"
   },
 
   "refreshStatusText": {
@@ -284,7 +284,7 @@
     "fa": "بارگذاری مجدد",
     "id": "Menyegarkan dalam",
     "pt_br": "Atualizar em",
-    "pl": ""
+    "pl": "Odśwież za"
   },
 
   "refreshStartText": {
@@ -302,7 +302,7 @@
     "fa": "مجدد بارگذاری نمایید.",
     "id": "Mulai Penyegaran",
     "pt_br": "Reiniciar Refresh",
-    "pl": ""
+    "pl": "uruchom ponownie odświeżanie"
   },
 
   "refreshStopText": {
@@ -320,6 +320,6 @@
     "fa": "از بارگیری مجدد خوداری کنید.",
     "id": "Hentikan Penyegaran",
     "pt_br": "Parar Refresh",
-    "pl": ""
+    "pl": "zatrzymaj odświeżanie"
   }
 }
