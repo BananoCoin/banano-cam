@@ -11,7 +11,8 @@
     "it": "Italiano",
     "ru": "Русский",
     "fi": "Suomi",
-    "fa": "فارسی"
+    "fa": "فارسی",
+    "id": "Bahasa Indonesia"
   },
 
   "title": {
@@ -26,7 +27,8 @@
     "it": "Banano Cam",
     "ru": "Banano камера",
     "fi": "Banano Cam",
-    "fa": "دوربین بنانو"
+    "fa": "دوربین بنانو",
+    "id": "Kamera Banano"
   },
 
   "account": {
@@ -41,7 +43,8 @@
     "it": "Account",
     "ru": "Аккаунт",
     "fi": "Tili",
-    "fa": "حساب کاربر"
+    "fa": "حساب کاربر",
+    "id": "Akun"
   },
 
   "seed": {
@@ -55,9 +58,9 @@
     "da": "Seed",
     "it": "Seed",
     "ru": "Seed",
-
     "fi": "Seed",
-    "fa": "seed"
+    "fa": "seed",
+    "id": "Seed"
   },
 
   "browserOnly": {
@@ -72,7 +75,8 @@
     "it": "Solo Browser",
     "ru": "Только браузер",
     "fi": "Vain selain",
-    "fa": "فقط در مرورگر "
+    "fa": "فقط در مرورگر ",
+    "id": "Hanya Browser"
   },
 
   "changeAccount": {
@@ -87,8 +91,8 @@
     "it": "Cambia Account",
     "ru": "Изменить аккаунт",
     "fi": "Vaihda tili",
-    "ru": "Только браузер",
-    "fa": "تغییر حساب کاربری"
+    "fa": "تغییر حساب کاربری",
+    "id": "Ganti Akun"
   },
 
   "optional": {
@@ -103,8 +107,8 @@
     "it": "Opzionale",
     "ru": "Опционально",
     "fi": "Valinnainen",
-    "fi": "",
-    "fa": "اختیاری "
+    "fa": "اختیاری ",
+    "id": "Opsional"
   },
 
   "session": {
@@ -119,7 +123,8 @@
     "it": "Sessione",
     "ru": "Сессия",
     "fi": "Session",
-    "fa": "Session"	
+    "fa": "Session",
+    "id": "Sesi"
   },
 
   "recording": {
@@ -134,7 +139,8 @@
     "it": "Registrazione",
     "ru": "Запись",
     "fi": "Istunto",
-    "fa": "ضبط و نگارش"
+    "fa": "ضبط و نگارش",
+    "id": "Rekaman"
   },
 
   "newSession": {
@@ -149,7 +155,8 @@
     "it": "Nuova Sessione",
     "ru": "Новая сессия",
     "fi": "Uusi istunto",
-    "fa": " جدید Session"
+    "fa": " جدید Session",
+    "id": "Sesi Baru"
   },
 
   "returningSesson": {
@@ -164,7 +171,8 @@
     "it": "Riprendi Sessione",
     "ru": "Возвращение сессии",
     "fi": "Paluuistunto",
-    "fa": " Session بازگرداندن"
+    "fa": " Session بازگرداندن",
+    "id": "Pengembalian Sesi"
   },
 
   "sessionKey": {
@@ -179,8 +187,10 @@
     "it": "Chiave Sessione",
     "ru": "Ключ сессии",
     "fi": "Istunnon avain",
-    "fa": "Session کلید"
+    "fa": "Session کلید",
+    "id": "Kunci Sesi"
   },
+  
   "beginSession": {
     "en": "Begin Session",
     "es": "Inicie Sesión",
@@ -193,7 +203,8 @@
     "it": "Inizia Sessione",
     "ru": "Начать сессию",
     "fi": "Aloita istunto",
-    "fa": "Session آغاز"
+    "fa": "Session آغاز",
+    "id": "Mulai Sesi"
   },
 
   "footerText": {
@@ -208,7 +219,8 @@
     "it": "Tutti gli emojis realizzati da OpenMoji– the open - source emoji and icon project.License: CC BY - SA 4.0.All Code MIT license, 2020.Questo sito utilizza i cookie per memorizzare la sessione. Tutti i cookie vengono cancellati quando ti disconnetti.",
     "ru": "Все смайлики, разработанные OpenMoji - проект смайликов и иконок с открытым исходным кодом. Лицензия: CC BY - SA 4.0. Лицензия на все коды MIT, 2020. Этот сайт использует cookies для хранения вашей сессии. Все cookies очищаются при выходе из системы.",
     "fi": "Kaikki emojis suunnitellut OpenMoji– the open - source emoji and icon project.Lisenssi: CC BY - SA 4.0.All Code MIT license, 2020. Tämä sivusto käyttää evästeitä istunnon tallentamiseen. Kaikki evästeet poistetaan, kun kirjaudut ulos.",
-    "fa": "All emojis designed by OpenMoji– the open - source emoji and icon project.License: CC BY - SA 4.0.All Code MIT license, 2020. این سایت از کوکی برای نگهداری نشست کاربر استفاده می کند و در هنگام خروج از سایت کلیه کوکی ها پاک می شود."
+    "fa": "All emojis designed by OpenMoji– the open - source emoji and icon project.License: CC BY - SA 4.0.All Code MIT license, 2020. این سایت از کوکی برای نگهداری نشست کاربر استفاده می کند و در هنگام خروج از سایت کلیه کوکی ها پاک می شود.",
+    "id": "Semua emoji di desain oleh OpenMoji– sumber emoji terbuka dan proyek ikon. Lisensi: CC BY - SA 4.0. Semua lisensi Kode MIT, 2020. Situs ini menggunakan cookie untuk menyimpan sesi Anda. Semua cookie dihapus saat Anda keluar."
   },
   
   "refresh": {
@@ -222,8 +234,9 @@
     "da": "Opdater",
     "it": "Ricaricare",
     "ru": "Обновление",
-    "fi": "",
-    "fa": "بارگذاری"
+    "fi": "Virkistää",
+    "fa": "بارگذاری",
+    "id": "Menyegarkan"
   },
 
   "refreshStatusText": {
@@ -238,7 +251,8 @@
     "it": "Ricaricare in",
     "ru": "Обновить в",
     "fi": "Päivitä",
-    "fa": "بارگذاری مجدد"
+    "fa": "بارگذاری مجدد",
+    "id": "Menyegarkan dalam"
   },
 
   "refreshStartText": {
@@ -253,7 +267,8 @@
     "it": "Riavvia l'aggiornamento",
     "ru": "Перезапустить Обновить",
     "fi": "Käynnistä päivitys uudelleen",
-    "fa": "مجدد بارگذاری نمایید."
+    "fa": "مجدد بارگذاری نمایید.",
+    "id": "Mulai Penyegaran"
   },
 
   "refreshStopText": {
@@ -268,6 +283,7 @@
     "it": "Interrompere l'aggiornamento",
     "ru": "Стоп Обновить",
     "fi": "Lopeta päivitys",
-    "fa": "از بارگیری مجدد خوداری کنید."
+    "fa": "از بارگیری مجدد خوداری کنید.",
+    "id": "Hentikan Penyegaran"
   }
 }
