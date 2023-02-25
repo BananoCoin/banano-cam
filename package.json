@@ -29,7 +29,7 @@
     "pg-promise": "^10.4.4",
     "pngjs": "^3.4.0",
     "request": "^2.88.2",
-    "socket.io": "^2.3.0"
+    "socket.io": "^2.5.0"
   },
   "preferGlobal": true,
   "devDependencies": {
