@@ -25,8 +25,8 @@
     "express": "^4.16.4",
     "express-handlebars": "^5.3.1",
     "mkdirp": "^1.0.3",
-    "pg": "^7.18.2",
-    "pg-promise": "^10.4.4",
+    "pg": "^8.11.1",
+    "pg-promise": "^10.15.4",
     "pngjs": "^3.4.0",
     "request": "^2.88.2",
     "socket.io": "^2.5.0"
@@ -34,7 +34,7 @@
   "preferGlobal": true,
   "devDependencies": {
     "chai": "^4.2.0",
-    "eslint": "^6.8.0",
+    "eslint": "^8.44.0",
     "eslint-config-google": "^0.14.0",
     "mocha": "^10.2.0",
     "nyc": "^15.0.0"
